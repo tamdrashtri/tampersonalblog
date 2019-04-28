@@ -18,5 +18,6 @@ fields:
   name: title
   label: title
 pages:
+- content/post/how-much-should-i-blog.md
 - content/post/my-first-weeknote.md
 - content/post/nostalgic-of-yahoo-360.md
