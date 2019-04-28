@@ -18,6 +18,7 @@ fields:
   name: title
   label: title
 pages:
+- content/vietnamese/ai-chịu-viết-và-viết-tiếng-việt-hay-tiếng-anh.md
 - content/post/everyone-should-be-a-curator.md
 - content/post/how-much-should-i-blog.md
 - content/post/my-first-weeknote.md
