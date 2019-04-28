@@ -40,7 +40,7 @@ enableGitInfo = true
     url = "/about/"
     weight = 4
   [[menu.nav]]
-    name = "Vietnamese"
+    name = "Blog tiếng việt"
     url = "/vietnamese/"
     weight = 4
   [[menu.nav]]
