@@ -17,7 +17,7 @@ enableGitInfo = true
   quality = 99
 
 [params]
-  description = "This is a blog by Tam"
+  description = "Tam's Personal Website"
   dateFormat = "April 28, 2019"
   codePenUser = "tamhn"
   katex = true
