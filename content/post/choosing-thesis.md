@@ -1,9 +1,11 @@
 ---
-date: "2019-04-28"
-tags: ["college", "reflection"]
-title: "Lessons learned choosing my thesis topic"
----
+date: ''
+tags:
+- college
+- reflection
+title: Lessons learned choosing my thesis topic
 
+---
 I hesitated for many months deciding the topic I want to write for my thesis, both because of the conflict of interests, or whether I want something that is practical or just inherently for fun. I decided then to write something that is practical, something that I can practice my skills and improve on it. 
 ‍
 
