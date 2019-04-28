@@ -12,7 +12,7 @@ fields:
   config:
     required: false
   label: Last updated
-- name: tag
+- name: tags
   type: tag_list
   default: []
-  label: tag
+  label: tags
