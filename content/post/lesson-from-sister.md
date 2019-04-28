@@ -1,5 +1,4 @@
 ---
-date: ''
 tags:
 - business
 - inspiration
