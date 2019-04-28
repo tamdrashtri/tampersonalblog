@@ -1,6 +1,6 @@
 ---
 label: basic blog
-hide_body: false
+hide_body: true
 fields:
 - type: datetime
   name: date
