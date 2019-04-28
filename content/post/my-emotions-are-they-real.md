@@ -1,6 +1,5 @@
 +++
 date = "April 28, 2019"
-draft = true
 last_updated = "April 28, 2019"
 tags = ["thoughts"]
 title = "My emotions, are they real?"
