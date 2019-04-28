@@ -5,12 +5,18 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    date_format: April 29, 2019
 - type: datetime
   name: lastmod
   label: lastmod
+  config:
+    date_format: April 28, 2019
 - type: datetime
   name: publishdate
   label: publishdate
+  config:
+    date_format: April 28, 2019
 - type: list
   name: tags
   label: tags
