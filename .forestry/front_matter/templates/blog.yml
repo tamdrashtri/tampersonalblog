@@ -1,0 +1,19 @@
+---
+label: blog
+hide_body: false
+fields:
+- type: text
+  name: date
+  label: date
+- type: text
+  name: lastmod
+  label: lastmod
+- type: text
+  name: publishdate
+  label: publishdate
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: title
+  label: title
