@@ -1,5 +1,5 @@
 ---
-date: 2019-04-28 13:30:00 +0000
+date: 2019-04-28 
 tags:
 - experiences
 title: Migrating my blog to Hugo. Forestry is a great help!
