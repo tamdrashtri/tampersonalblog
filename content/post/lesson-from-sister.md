@@ -3,7 +3,7 @@ date: ''
 tags:
 - business
 - inspiration
-title: 'A low cost, high retention and low-stress business: Lessons from my sister.'
+title: 'A low cost, high retention and low-stress business: Lessons from my sister'
 
 ---
 My sister used to be just a lower middle class woman. She does not earn much money, but had a pretty sustainable life compared to others, partly because she does not have to spend much money on renting, or food. 
