@@ -40,7 +40,7 @@ enableGitInfo = true
     url = "/about/"
     weight = 4
   [[menu.nav]]
-    name = "vietnamese"
+    name = "Vietnamese"
     url = "/vietnamese/"
     weight = 4
   [[menu.nav]]
