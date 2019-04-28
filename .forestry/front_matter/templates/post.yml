@@ -1,4 +1,18 @@
 ---
 label: post
 hide_body: false
-fields: []
+fields:
+- name: date
+  type: text
+  config:
+    required: false
+  label: Date
+- name: last_updated
+  type: text
+  config:
+    required: false
+  label: Last updated
+- name: tag
+  type: tag_list
+  default: []
+  label: tag
