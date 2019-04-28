@@ -3,7 +3,6 @@ date: April 28, 2019
 tags:
 - experiences
 title: Migrating my blog to Hugo. Forestry is a great help!
-draft: true
 
 ---
 I just migrated my blog from Webflow to Hugo. I was hesitating for a long time since I don't want to open a code editor and encounter bugs along the way, and I may achieve nothing at all. Sometimes problems occur in a very small mistake and I could not debug it. I ended up deleting this blog four times to make it functional like now.
