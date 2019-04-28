@@ -16,3 +16,8 @@ fields:
   type: tag_list
   default: []
   label: tags
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
