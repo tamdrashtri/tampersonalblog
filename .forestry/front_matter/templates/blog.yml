@@ -18,5 +18,6 @@ fields:
   name: title
   label: title
 pages:
+- content/vietnamese/review-anime-hunter-x-hunter.md
 - content/post/my-first-weeknote.md
 - content/post/nostalgic-of-yahoo-360.md
