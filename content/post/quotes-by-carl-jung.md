@@ -1,49 +1,11 @@
 ---
-title: "Quotes by Carl Jung"
-date: 2018-12-26T00:29:41-06:00
-tags: ["quotes"]
+title: Practicing gratitude
+date: 2019-04-28 07:00:00 +0000
+tags: []
+lastmod: 2019-04-28 07:00:00 +0000
+publishdate: 2019-04-28 07:00:00 +0000
+
 ---
+Recently I've been writing the 5-minute gratitude journal. It's a daily blog of mine containing only positive things I'm grateful for. Though it's really short, it's still better than writing nothing. While my friends have Facebook and Instagram surfing routine, I have journaling routine and it offers a greater return than passively consuming social media.
 
-{{% blockquote author="Carl Jung" %}}
-Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity.
-{{% /blockquote %}}
-
-{{% blockquote author="Carl Jung" %}}
-The least of things with a meaning is worth more in life than the greatest of things without it.
-{{% /blockquote %}}
-
-{{% blockquote author="Carl Jung" %}}
-Who looks outside, dreams; who looks inside, awakes.
-{{% /blockquote %}}
-
-{{% blockquote author="Carl Jung" %}}
-Everything that irritates us about others can lead us to an understanding of ourselves.
-{{% /blockquote %}}
-
-{{% blockquote author="Carl Jung" %}}
-Knowing your own darkness is the best method for dealing with the darknesses of other people.
-{{% /blockquote %}}
-
-{{% blockquote author="Carl Jung" %}}
-The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.
-{{% /blockquote %}}
-
-{{% blockquote author="Carl Jung" %}}
-There is no coming to consciousness without pain.
-{{% /blockquote %}}
-
-{{% blockquote author="Carl Jung" %}}
-As far as we can discern, the sole purpose of human existence is to kindle a light of meaning in the darkness of mere being.
-{{% /blockquote %}}
-
-{{% blockquote author="Carl Jung" %}}
-We cannot change anything until we accept it. Condemnation does not liberate, it oppresses.
-{{% /blockquote %}}
-
-{{% blockquote author="Carl Jung" %}}
-In all chaos there is a cosmos, in all disorder a secret order.
-{{% /blockquote %}}
-
-{{% blockquote author="Carl Jung" %}}
-Show me a sane man and I will cure him for you.
-{{% /blockquote %}}
+Since I broke away from my previous relationship a few weeks ago, I've learned to discover things and do things to heal, instead of indulging in things that have little value. So I write gratitude journal every day, read more books and meditate a lot. I'm becoming more positive and grateful and I feel great. This makes me realize everything can be taught. I'm not a static self. 
