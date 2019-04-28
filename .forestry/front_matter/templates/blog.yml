@@ -24,5 +24,6 @@ fields:
   name: title
   label: title
 pages:
+- content/post/i-miss.md
 - content/post/nostalgic-of-yahoo-360.md
 - content/post/quotes-by-carl-jung.md
