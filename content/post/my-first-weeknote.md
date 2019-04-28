@@ -19,4 +19,9 @@ Movies I watched:
 
 * [If a Cat Disappeared from the World](https://en.wikipedia.org/wiki/If_Cats_Disappeared_from_the_World): I could not focus watching this film. I like the idea of it, but I'd rather watch anime series instead of this. A lot of anime series are just brilliant and beautiful.
 * An incredibly beautiful anime: [Your Name](https://www.rottentomatoes.com/m/your_name_2017). It is rated as #2 on MAL so I have to watch it. They have a very modern setting I like a lot. Character designs are beautiful although the romantic theme is quite boring. Overall I like it.
+
+Things I've learned:
+
+* I'm learning to care more about my health recently because I've realized I have bad habits and have persisted for too long. They have been like this for several years and I refused to learn more about it. Like my diet. So I'm practicing intermittent fasting and I feel great. I only eat one meal per day on average and my appetite is still functioning well.
+* My posture matters a lot. My neck can get hurt if I bow down too much. My lung needs a lot of care since I'd been playing table tennis for a long time and  I bent down many times per day to collect ping pong balls. This is why many table tennis players cannot have straight postures. 
 * 
