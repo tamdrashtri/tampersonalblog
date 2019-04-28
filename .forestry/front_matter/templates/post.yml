@@ -21,3 +21,5 @@ fields:
   config:
     required: false
   label: Title
+pages:
+- content/post/my-emotions-are-they-real.md
