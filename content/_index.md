@@ -1,7 +1,10 @@
 ---
-date: "2017-06-26T18:27:58+01:00"
-title: "Home"
+date: 2017-06-26 18:27:58 +0100
+title: Home
+
 ---
+Hi there!
 
-Hi. My name is Tam and here is my personal blog. 
+This personal website contains a collection of my favorite things and learning logs. These include my work projects, personal thoughts and favorite things.
 
+I save all of my favorite websites, articles and blogs on [Are.na](https://www.are.na/tam-hn). I tweet regularly on [Twitter](https://twitter.com/ctvv3010) and engage with other professionals via [LinkedIn](https://www.linkedin.com/in/tamhnguyen179/).
