@@ -18,6 +18,7 @@ fields:
   name: title
   label: title
 pages:
+- content/post/some-thoughts-and-inspirations-on-writing.md
 - content/post/my-experience-on-becoming-a-local-guide-on-google-maps-it-s-great-that-my-reviews-have-influence.md
 - content/post/ways-to-feel-great-1-complete-something-every-day.md
 - content/post/on-kindness-some-personal-thoughts.md
