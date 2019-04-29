@@ -18,7 +18,7 @@ enableGitInfo = true
 
 [params]
   description = "“You cannot do a kindness too soon, for you never know how soon it will be too late.” Ralph Waldo Emerson"
-  dateFormat = "April 28, 2019"
+  dateFormat = "2019-04-11"
   codePenUser = "tamhn"
   katex = true
 
