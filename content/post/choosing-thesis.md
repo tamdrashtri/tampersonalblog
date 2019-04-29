@@ -1,5 +1,5 @@
 ---
-date: ''
+date: 'April 10, 2019'
 tags:
 - college
 - reflection
