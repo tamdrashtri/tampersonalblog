@@ -18,6 +18,7 @@ fields:
   name: title
   label: title
 pages:
+- content/post/what-should-i-do-to-not-waste-time.md
 - content/post/everyone-should-be-a-curator.md
 - content/post/things-that-changed-my-life-1-read-it-later-apps.md
 - content/vietnamese/ai-chịu-viết-và-viết-tiếng-việt-hay-tiếng-anh.md
