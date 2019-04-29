@@ -1,6 +1,6 @@
 +++
 date = "2019-04-28"
-tags = []
+tags = ["study abroad", "lesson", "tips"]
 title = "Viết bài luận thế nào để được học bổng? Chia sẻ cá nhân "
 
 +++
