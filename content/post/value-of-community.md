@@ -1,6 +1,6 @@
 ---
 title: The value of community in colleges
-date: "2019-04-11"
+date: "{{ now.Format "2006-01-02" }}"
 tags:
 - experiences
 - lesson
