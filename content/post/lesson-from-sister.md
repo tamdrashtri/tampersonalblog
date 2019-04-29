@@ -1,5 +1,5 @@
 ---
-date: 'April 2019'
+date: "2019-04-28"
 tags:
 - business
 - inspiration

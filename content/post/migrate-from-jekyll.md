@@ -1,7 +1,5 @@
 ---
-date: 2019-04-28 07:00:00 +0000
-lastmod: 2019-04-28 07:00:00 +0000
-publishdate: 2019-04-28 07:00:00 +0000
+date: "2019-04-28"
 tags:
 - observation
 title: No one uses Twitter in Vietnam!?

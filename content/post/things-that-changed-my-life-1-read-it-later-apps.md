@@ -1,7 +1,5 @@
 +++
-date = "April 28, 2019"
-lastmod = "April 28, 2019"
-publishdate = "April 28, 2019"
+date = "2019-04-28"
 tags = ["lifechanger"]
 title = "Things that changed my life: #1: Read-it-later apps"
 

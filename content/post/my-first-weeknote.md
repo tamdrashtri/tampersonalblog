@@ -1,8 +1,6 @@
 +++
-date = "April 28, 2019"
+date = "2019-04-28"
 draft = true
-lastmod = "April 28, 2019"
-publishdate = "April 28, 2019"
 tags = ["weeknote"]
 title = "My first weeknote"
 

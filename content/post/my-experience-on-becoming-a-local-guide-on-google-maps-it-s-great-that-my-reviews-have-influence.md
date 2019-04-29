@@ -1,7 +1,5 @@
 +++
-date = "April 29, 2019"
-lastmod = "April 29, 2019"
-publishdate = "April 29, 2019"
+date = "2019-04-28"
 tags = ["thoughts"]
 title = "My experience on becoming a local guide on Google Maps: It's great that my reviews have influence"
 

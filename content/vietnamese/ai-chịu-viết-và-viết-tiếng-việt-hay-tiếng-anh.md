@@ -1,7 +1,5 @@
 +++
-date = "April 28, 2019"
-lastmod = "April 28, 2019"
-publishdate = "April 28, 2019"
+date = "2019-04-28"
 tags = ["thoughts"]
 title = "Ai chịu viết, và viết tiếng việt hay tiếng anh?"
 

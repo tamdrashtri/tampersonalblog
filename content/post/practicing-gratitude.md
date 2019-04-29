@@ -1,9 +1,8 @@
 ---
 title: Practicing gratitude
-date: 2019-04-28 07:00:00 +0000
+date: "2019-04-28"
 tags: []
-lastmod: 2019-04-28 07:00:00 +0000
-publishdate: 2019-04-28 07:00:00 +0000
+
 
 ---
 Recently I've been writing the 5-minute gratitude journal. It's a daily blog of mine containing only positive things I'm grateful for. Though it's really short, it's still better than writing nothing. While my friends have Facebook and Instagram surfing routine, I have journaling routine and it offers a greater return than passively consuming social media.
