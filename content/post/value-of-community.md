@@ -1,6 +1,6 @@
 ---
 title: The value of community in colleges
-date: "Jan 2, 2006"
+date: ''
 tags:
 - experiences
 - lesson
