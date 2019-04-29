@@ -51,3 +51,8 @@ enableGitInfo = true
     name = "RSS"
     url = "/index.xml"
     weight = 5
+  [[menu.nav]]
+    name = "Get updated on my blog via email"
+    url = "https://buttondown.email/tamhn"
+    weight = 5
+  
