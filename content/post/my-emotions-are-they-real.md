@@ -1,6 +1,5 @@
 +++
-date = "2014-04-09"
-last_updated = 'April 28, 2019'
+date = "2019-04-28"
 tags = ["thoughts"]
 title = "My emotions, are they real?"
 
