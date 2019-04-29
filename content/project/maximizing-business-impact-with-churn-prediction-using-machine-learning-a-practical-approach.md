@@ -5,6 +5,8 @@ tags = ["project"]
 title = "Maximizing Business Impact with Churn Prediction Using Machine Learning: A Practical Approach"
 
 +++
+_The original post is published at my Medium site. Check it out_ [_here_](https://medium.com/@tamhn/maximizing-business-impact-with-churn-prediction-using-machine-learning-a-practical-approach-d29de2bb4365)_._
+
 #### The telecom industry and customer churn
 
 Nowadays, most telecommunication market is almost saturated with high competitions since different providers sell the same services (i.e wireless, phone plans). Often the fights are between very large companies, each has about 15-30% of the market share.
