@@ -1,11 +1,13 @@
 ---
-date: 2017-06-26 18:27:58 +0100
+date: 2017-06-26T17:27:58.000+00:00
 title: Home
 
 ---
+![](/uploads/IMG_3041.JPG)
+
 Hi there!
 
-This personal website contains a collection of my favorite things and learning logs. These include my work projects, personal thoughts and favorite things.
+I'm Tam, and I'm currently living in Vancouver, British Columbia. This personal website contains a collection of my favorite things and learning logs. These include my work projects, personal thoughts and favorite things.
 
 I save all of my favorite websites, articles and blogs on [Are.na](https://www.are.na/tam-hn). I tweet regularly on [Twitter](https://twitter.com/ctvv3010).
 
