@@ -1,6 +1,5 @@
 +++
 date = "April 28, 2019"
-draft = true
 lastmod = "April 28, 2019"
 tags = ["project"]
 title = "Maximizing Business Impact with Churn Prediction Using Machine Learning: A Practical Approach"
@@ -8,7 +7,7 @@ title = "Maximizing Business Impact with Churn Prediction Using Machine Learning
 +++
 #### The telecom industry and customer churn
 
-Nowadays, most telecommunication market is almost saturated with high competitions since different providers sell the same services (i.e wireless, phone plans). Often the fights are between very large companies, each has about 15-30% of the market share.
+Nowadays, most telecommunication market is saturated with high competitions since different providers sell the same services (i.e wireless, phone plans). Often the fights are between very large companies, each has about 15-30% of the market share.
 
 Because of this saturated market, the cost of acquiring new customers can be 50 times higher than keeping a customer. In terms of wireless subscription, the acquisition cost is still increasing over time. On the customer side, it is very easy to switch to a new provider. In Canada, Bell and Telus reported an average customer acquisition cost of 521$ while the retention cost for each subscriber is about 11$.
 
