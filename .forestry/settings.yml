@@ -8,7 +8,7 @@ sections:
   path: content
   label: project
   create: all
-  match: content/project/**/*
+  match: project/**/*
 - type: directory
   path: content/vietnamese
   label: vietnamese
