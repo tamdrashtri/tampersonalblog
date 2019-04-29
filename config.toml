@@ -52,7 +52,7 @@ enableGitInfo = true
     url = "/index.xml"
     weight = 5
   [[menu.nav]]
-    name = "Get updated on my blog via email"
+    name = "Subscribe via Email"
     url = "https://buttondown.email/tamhn"
-    weight = 5
+    weight = 6
   
