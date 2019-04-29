@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content
+  label: project
+  create: all
+  match: content/project/**/*
+- type: directory
   path: content/vietnamese
   label: vietnamese
   create: all
