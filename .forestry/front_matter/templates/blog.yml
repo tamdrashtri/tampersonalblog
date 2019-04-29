@@ -3,20 +3,19 @@ label: blog
 hide_body: false
 fields:
 - type: text
+  name: title
+  label: title
+- type: text
   name: date
   label: date
-- type: text
-  name: lastmod
+- name: lastmod
+  type: text
+  config:
+    required: false
   label: lastmod
-- type: text
-  name: publishdate
-  label: publishdate
 - type: list
   name: tags
   label: tags
-- type: text
-  name: title
-  label: title
 pages:
 - content/post/ways-to-feel-great-1-complete-something-every-day.md
 - content/post/some-thoughts-and-inspirations-on-writing.md
