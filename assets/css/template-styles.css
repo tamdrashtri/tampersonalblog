@@ -1,7 +1,7 @@
 /* Fonts */
 @font-face {
-    font-family: 'Faustina';
-    src: url('{{ "css/fonts/Faustina-Bold.ttf" | absURL }}') format('ttf'), url('{{ "css/fonts/Faustina-Bold.ttf" | absURL }}') format('ttf');
+    font-family: 'Vollkorn';
+    src: url('{{ "css/fonts/Vollkorn-Bold.ttf" | absURL }}') format('ttf'), url('{{ "css/fonts/Vollkorn-Bold.ttf" | absURL }}') format('ttf');
     font-weight: bold;
     font-style: normal;
 }
@@ -115,7 +115,7 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: Faustina, serif;
+    font-family: Vollkorn, serif;
     line-height: 1.125;
 }
 h1 {
