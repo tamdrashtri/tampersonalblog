@@ -9,7 +9,7 @@
 *::before,
 *::after {
     font-family: inherit;
-    background-color: inherit;
+    background-color: #243447;
     color: inherit;
     margin: 0;
     padding: 0;
@@ -404,7 +404,7 @@ caption {
 
 /* After */
 .pattern [aria-current] {
-  background-color: #243447;
+  background-color: #111;
   clip-path: polygon(0% 0%, 90% 0%, 100% 50%, 90% 100%, 0% 100%);
   color: #fefefe;
   padding-top: 0.5em;
