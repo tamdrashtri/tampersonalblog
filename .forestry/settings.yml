@@ -10,7 +10,7 @@ sections:
   create: all
   match: project/**/*
 - type: directory
-  path: content/vietnamese
+  path: content/post/vietnamese
   label: vietnamese
   create: all
   match: "**/*"
