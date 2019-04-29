@@ -1,7 +1,7 @@
 /* Fonts */
 @font-face {
     font-family: 'Helvetica';
-    src: url('{{ "css/fonts/helvetica-bold.wolf" | absURL }}') format('wolf'), url('{{ "css/fonts/helvetica-bold.wolf2" | absURL }}') format('wolf2');
+    src: url('{{ "css/fonts/helvetica-bold.woff" | absURL }}') format('woff'), url('{{ "css/fonts/helvetica-bold.woff2" | absURL }}') format('woff2');
     font-weight: bold;
     font-style: normal;
 }
