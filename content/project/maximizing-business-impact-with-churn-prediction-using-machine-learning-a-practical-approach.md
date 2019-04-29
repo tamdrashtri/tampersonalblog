@@ -1,13 +1,13 @@
 +++
-date = "April 28, 2019"
-lastmod = "April 28, 2019"
+date = "2019-04-09"
+lastmod = "2019-04-09"
 tags = ["project"]
 title = "Maximizing Business Impact with Churn Prediction Using Machine Learning: A Practical Approach"
 
 +++
 #### The telecom industry and customer churn
 
-Nowadays, most telecommunication market is saturated with high competitions since different providers sell the same services (i.e wireless, phone plans). Often the fights are between very large companies, each has about 15-30% of the market share.
+Nowadays, most telecommunication market is almost saturated with high competitions since different providers sell the same services (i.e wireless, phone plans). Often the fights are between very large companies, each has about 15-30% of the market share.
 
 Because of this saturated market, the cost of acquiring new customers can be 50 times higher than keeping a customer. In terms of wireless subscription, the acquisition cost is still increasing over time. On the customer side, it is very easy to switch to a new provider. In Canada, Bell and Telus reported an average customer acquisition cost of 521$ while the retention cost for each subscriber is about 11$.
 
@@ -40,7 +40,7 @@ The H2O.ai framework is used for the modeling process. H2O is an open-source mac
 
 Using the programming language R, the entire dataset is split into two different datasets, one is for training and the other is for testing. The split up is 70% for the training set and 30% for the testing set. H2O AutoML is applied to train with a maximum of 7 models. Cross-validation is applied to mitigate the effect of imbalanced data and overfitting problems (e.g. cross-validation trains several models on subsets of the input data and evaluate them on the other subset of the data). The maximum training time is set to 10 minutes.
 
-The list of models implemented and their performance
+![The list of models implemented and their performance](https://cdn-images-1.medium.com/max/1600/1*U5P62jS0aa3cZRGtPHbwYA.png)
 
 The leaderboard is ordered by AUC, which is the Area under the Receiver Operating Characteristics Curve. This refers to a metric that is used to measure the performance of a model. Intuitively, it provides an estimate of the probability of a random set of observations of churners is ranked correctly and higher than the selected observations in the class of non-churners. In other words, it is the probability that a churner is assigned a higher probability to churn compared to that of a non-churn. In figure 5, the best performing model has an AUC of 0.85 and has a smaller mean per class error. Please note that on the graph the metric of mean per class error shows 0.23, which is the same. However, the difference is not shown since 0.23 is rounded. In further decimal points, the differences are shown.
 
@@ -52,9 +52,13 @@ Ensemble Stacking is ranked as the best performing model. There are more than on
 
 Once the modeling process is completed, several metrics are derived to assess the performance of the model. The first metric is the confusion matrix, which is a two by two matrix categorizing the number of correct and incorrect predictions for both positive and negative class. Positives mean customers being classified as churn, and negatives mean customers classified as staying. The true negatives and true positives are the correctly classified observations for the positive and negative classes. Likewise, the false negatives and the false positives represent the errors the model incorrectly classified. Usually, incorrectly predicted observations have different importance, meaning false negatives can cost more than false negatives.
 
+![](https://cdn-images-1.medium.com/max/1600/1*7tNP5SbxJyHK4nXXCly3uw.png)
+
 Confusion Matrix Illustration. The red color in the table shows the most costly rate in predicting churn
 
 For this illustration above, the highlighted box shows the importance of false negatives, the most costly classification error of the model. This is when the model predicts customers stay while customers actually churn. In other words, when the model predicts customers stay, there is no need to give discount incentives for these customers. The company thereby loses profits by making them leave without doing any action for them to stay. Whereas, in terms of false positives (the model predicts customers churn while they stay), the company reduces profits by offering discounts, but still have some revenue from these returning customers. It is important, therefore, to minimize our false negative rate (or minimize costs) while maximizing true positives rate (maximize profits).
+
+![](https://cdn-images-1.medium.com/max/1600/1*3oib1ovhNv7JQC_QtH4BkQ.png)
 
 Confusion Matrix of the Stack Ensemble model.
 
@@ -64,6 +68,8 @@ This table shows the confusion matrix results from the Stack Ensemble model. Fro
 
 The other most commonly used ways to measure model performance is the Receiver Operating Characteristic curve (ROC), which shows the false positive rate (customers that stay the model incorrectly identify as leaving) on the x-axis and the true positive rate (customers the model correctly identify as leaving) on the y-axis. The closer the curve reaching point 1 on the top left of the curve, the better the model is since we maximize correct predictions and minimize incorrect ones.
 
+![](https://cdn-images-1.medium.com/max/1600/1*m6Em86XB2Aei90UlROQoyQ.png)
+
 The ROC curve of the best performing model — H2O Stack Ensemble. The horizontal line shows the false positive rate and the vertical line shows the true positive rate.
 
 Our ROC curve shows a high performance of the H2O Stack Ensemble model with the AUC score equals 0.852, as shown in the leaderboard. From most of the cases, if the AUC score is over 0.80, it is rated as a very good performing model. As shown in the graph, the model performs much better than a random average model, showing it has more true positives rate than false positives rate. The model, therefore, has a good performance overall. From this graph, we can calculate the summary statistics for this ROC curve and calculate the optimal threshold value to maximize profits.
@@ -71,6 +77,10 @@ Our ROC curve shows a high performance of the H2O Stack Ensemble model with the 
 #### Gain and Lift
 
 Gain and Lift are important metrics especially for people who focus on the direct benefits of the model, one of the groups of stakeholders that might benefit from this is business people. The gain chart, specifically, measures what can be gained by using the model. As shown in the graph, the horizontal line represents the cumulative data fraction and the vertical line represents the gain. Based on the yellow gain line in the graph, we can interpret that targeting 37.5% of the high probability customers (cumulative data fraction) can potentially yield 75% of the potential positive response. This is a potential result from the model, showing the model is performing well and it can be used to target customers with high benefits.
+
+![](https://cdn-images-1.medium.com/max/1200/1*CnFK9ox8uBY2N0MOT4Kj2Q.png)
+
+![](https://cdn-images-1.medium.com/max/1200/1*5AyfOHKZrB_1o1A2Xcmt6w.png)
 
 Gain and Lift charts of Stack Ensembles
 
@@ -86,6 +96,8 @@ In this section, we will use the expected value framework to calculate the poten
 
 To do this calculation, it is necessary to have the expected rates and the cost/benefit of each rate, for the formula is as follows:
 
+![](https://cdn-images-1.medium.com/max/1600/1*ZNHQFD_1AeRn6Gr5YHLqZA.png)
+
 * p(p) is the probability of actual yes in the confusion matrix
 * p(n) is the probability of actual no in the confusion matrix
 * p(Y, p) is the True Positive Rate (tpr)
@@ -98,6 +110,8 @@ To do this calculation, it is necessary to have the expected rates and the cost/
 * c(Y, n) is the cost of false positive
 
 In terms of cost/benefit matrix for each expected rates, the table below shows the revenue and cost of each rate:
+
+![](https://cdn-images-1.medium.com/max/1600/1*AoDwflWRxRcILsWSVCZg6Q.png)
 
 The cost and revenue break down of each classification rate based on the confusion matrix.
 
