@@ -8,7 +8,7 @@
     </h1>
 
     <div class="date">
-      {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 02, 2006" }}
+      {{ $dateFormat := $.Site.Params.dateFormat | "Jan 02, 2006" }}
       {{ $publishDate := .PublishDate }}
       <strong aria-hidden="true">Publish date: </strong>{{ $publishDate.Format $dateFormat }}
     </div>
