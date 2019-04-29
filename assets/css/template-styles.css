@@ -6,7 +6,16 @@
     font-style: normal;
 }
 *,
-*::before,
+*::before {
+    font-family: inherit;
+    background-color:inherit;
+    color: inherit;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 *::after {
     font-family: inherit;
     background-color: #243447;
