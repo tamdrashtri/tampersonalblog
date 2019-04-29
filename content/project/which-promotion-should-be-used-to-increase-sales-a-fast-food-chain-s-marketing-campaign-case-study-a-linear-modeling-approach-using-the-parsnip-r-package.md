@@ -2,9 +2,11 @@
 date = "2019-04-09"
 lastmod = "2019-04-09"
 tags = ["project"]
-title = "Which promotion should be used to increase sales? A fast-food chain’s marketing campaign case study: A linear modeling approach using the Parsnip R package"
+title = "Which promotion should be used to increase sales? A fast-food chain’s marketing campaign case study"
 
 +++
+_The original post is published at TowardsDataScience. Check it out_ [_here_](https://towardsdatascience.com/which-promotion-should-be-used-to-increase-sales-c1c91b4ffb34)_._
+
 In introducing a new product to the market, one of the common questions being what promotion has the greatest effect on sales. A fast-food chain tries to test this by introducing the new product at locations in several randomly selected market. A different promotion is used at each location and the weekly sales are recorded for the first four weeks.
 
 I collected the data used from the IBM Watson website via this [link](https://www.ibm.com/communities/analytics/watson-analytics-blog/marketing-campaign-eff-usec_-fastf/). The key question of the following analysis is: **What drives sales in thousands?** To answer this question, we will start by exploring the data and finalize by applying a multiple linear regression to see which promotion or market size have the most ROI.
@@ -27,9 +29,9 @@ All of these variables are beneficial for the modeling process. I will set sales
 First, I imported the dataset, then installed or loaded packages if needed.
 
     marketing <- read_csv("WA_Fn-UseC_-Marketing-Campaign-Eff-UseC_-FastF.csv",              col_types = cols(MarketID = col_skip())) # removed MarketID because it's not needed.
-
+    
     library(simpleSetup)
-
+    
     # Load packages, install if neededpackages <- c('tidyverse',              'readr',              "recipes",              "magrittr",              "rsample",              "viridis",              "caret",              "parsnip",              "yardstick",              "broom")library_install(packages)
 
 #### Exploratory Visualisation
@@ -61,11 +63,11 @@ The modeling process will help us to confirm this.
 Here is the code for the two plots above:
 
     marketing_trnformed <- marketing %>%  mutate(    Promotion = as.character(Promotion),    Promotion_factor = as_factor(Promotion),    week = as.character(week),    Week_factor = as_factor(week)  ) %>%   select(-c("week", "Promotion", "LocationID"))
-
+    
     # plot violinmarketing_trnformed %>%   select(Promotion_factor, Week_factor, MarketSize, SalesInThousands) %>%   distinct() %>%   group_by(Promotion_factor, SalesInThousands, MarketSize, Week_factor) %>%   summarise(sales = sum(SalesInThousands)) %>%  ungroup() %>%   select(-SalesInThousands) %>%   gather(x, y, Promotion_factor:Week_factor) %>%   ggplot(aes(x = y, y = sales)) +  facet_wrap(~ x, ncol = 1, nrow = 3, scales = "free") +   geom_violin(aes(x = y, fill = sales), alpha = 0.5) +  coord_flip() +  geom_jitter(width = 0.1, alpha = 0.5, color = "#2c3e50") +  ylab("Sales in Thousands") + xlab(NULL) +  theme_bw() <- promotion_plot
-
+    
     #continuous variables: ageinstores and sales
-
+    
     num_vars_plot <- marketing_trnformed %>%   select(AgeOfStore, SalesInThousands) %>%  gather(x, y, AgeOfStore:SalesInThousands) %>%   ggplot(aes(x = y)) +  facet_wrap(~ x, ncol = 2, nrow = 1, scales = "free") +   geom_density(color = "skyblue", fill = "skyblue", alpha = 0.5) +  theme_bw()
 
 ### Modeling
@@ -97,20 +99,20 @@ This process also makes the linear regression model interpretable provided that 
 The code below does just this. I first transformed variables _Promotion_ and _week_ into factors and used the package _rsample_ to split the dataset, 70% of the data will be for training and the other 30% is for testing. The package _recipe_ is also used for the feature engineering process described above.
 
     set.seed(3456)
-
+    
     split <- rsample::initial_split(marketing_trnformed, prop = 0.7)
-
+    
     split %>% training()
-
+    
     split %>% testing()
-
+    
     train <- training(split)
     test  <- testing(split)
-
+    
     recipe <- recipe(SalesInThousands ~ Promotion_factor + MarketSize, data = train) %>%  step_string2factor(MarketSize) %>%  step_dummy(MarketSize, Promotion_factor, one_hot = TRUE) %>%   prep(data = train)
-
+    
     recipe
-
+    
     train_recipe <- bake(recipe, new_data = train)
     test_recipe  <- bake(recipe, new_data = test)
 
@@ -134,7 +136,7 @@ To evaluate how the model fit the data, we measure the goodness-of-fit. Using ya
         bind_cols(test_recipe %>% 
         select(SalesInThousands)) %>%  
         yardstick::metrics(truth = SalesInThousands, estimate = .pred)
-
+    
     ## .metric .estimator .estimate
     ##  rmse    standard   10.5  
     ##  rsq     standard   0.579
