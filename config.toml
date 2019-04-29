@@ -34,7 +34,7 @@ enableGitInfo = true
   [[menu.nav]]
     name = "Projects"
     url = "/project/"
-    weight = 4
+    weight = 2
   [[menu.nav]]
     name = "Tags"
     url = "/tags/"
