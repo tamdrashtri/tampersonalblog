@@ -1,7 +1,7 @@
 +++
 date = "2019-04-28"
 tags = ["thoughts"]
-title = "My experience on becoming a local guide on Google Maps: It's great that my reviews have influence"
+title = "My experience on becoming a local guide on Google Maps"
 
 +++
 I used to read and see if a restaurant has good ratings or not. If not then I just decide not to go. There are so many restaurants and sometimes it's worth to know if a restaurant is good or not beforehand. User reviews are one of the criteria. Though a lot of reviews are subjective, if the reviews add up by a lot of users then it can be a good source of authority. 
