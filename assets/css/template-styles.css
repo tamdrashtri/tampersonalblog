@@ -9,7 +9,7 @@
 *::before,
 *::after {
     font-family: inherit;
-    background-color: #243447;
+    background-color: inherit;
     color: inherit;
     margin: 0;
     padding: 0;
