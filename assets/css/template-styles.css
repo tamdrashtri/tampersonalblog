@@ -9,8 +9,8 @@
 *::before,
 *::after {
     font-family: inherit;
-    background-color: inherit;
-    color: inherit;
+    background-color: #243447;
+    color: #fff;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
