@@ -1,7 +1,7 @@
 /* Fonts */
 @font-face {
-    font-family: 'Helvetica';
-    src: url('{{ "css/fonts/helvetica-bold.woff" | absURL }}') format('woff'), url('{{ "css/fonts/helvetica-bold.woff2" | absURL }}') format('woff2');
+    font-family: 'Faustina';
+    src: url('{{ "css/fonts/Faustina-Bold.ttf" | absURL }}') format('ttf'), url('{{ "css/fonts/Faustina-Bold.ttf" | absURL }}') format('ttf');
     font-weight: bold;
     font-style: normal;
 }
@@ -115,7 +115,7 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: Miriam Libre, serif;
+    font-family: Faustina, serif;
     line-height: 1.125;
 }
 h1 {
