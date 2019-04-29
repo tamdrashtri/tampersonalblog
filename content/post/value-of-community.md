@@ -1,6 +1,6 @@
 ---
 title: The value of community in colleges
-date: '2019-04-11'
+date: 'April 11, 2019'
 tags:
 - experiences
 - lesson
