@@ -17,12 +17,12 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/everyone-should-be-a-curator.md
 - content/post/value-of-community.md
 - content/post/lesson-from-sister.md
 - content/post/choosing-thesis.md
 - content/post/migrate-from-jekyll.md
 - content/post/nostalgic-of-yahoo-360.md
-- content/post/everyone-should-be-a-curator.md
 - content/post/travel-journal-1-victoria-bc.md
 - content/post/in-pursuit-of-personal-knowledge-management-or-how-to-manage-my-knowledge.md
 - content/post/comfortability-in-need-of-something-in-bed-to-boost-my-productivity.md
