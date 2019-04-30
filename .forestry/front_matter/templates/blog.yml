@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/travel-journal-1-victoria-bc.md
 - content/post/in-pursuit-of-personal-knowledge-management-or-how-to-manage-my-knowledge.md
 - content/post/comfortability-in-need-of-something-in-bed-to-boost-my-productivity.md
 - content/post/building-spiritual-muscles-in-difficult-times.md
