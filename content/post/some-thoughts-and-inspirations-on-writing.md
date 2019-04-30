@@ -1,7 +1,7 @@
 +++
-date = "2019-04-28"
-lastmod = "2019-04-28"
-tags = ["writing"]
+date = "2019-04-29"
+lastmod = "2019-04-29"
+tags = ["list", "writing"]
 title = "My curated list of great blogs on the internet (to be updated)"
 
 +++
