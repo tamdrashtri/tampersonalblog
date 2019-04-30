@@ -6,6 +6,8 @@ theme = "cupper-hugo-theme"
 googleAnalytics = "UA-139233829-1"
 disqusShortname = "tam17995"
 enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
 
 [taxonomies]
   tag = "tags"
