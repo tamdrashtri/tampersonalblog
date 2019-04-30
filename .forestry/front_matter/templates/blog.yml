@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/value-of-community.md
 - content/post/lesson-from-sister.md
 - content/post/choosing-thesis.md
 - content/post/migrate-from-jekyll.md
