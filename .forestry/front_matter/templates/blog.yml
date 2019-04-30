@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/nostalgic-of-yahoo-360.md
 - content/post/everyone-should-be-a-curator.md
 - content/post/travel-journal-1-victoria-bc.md
 - content/post/in-pursuit-of-personal-knowledge-management-or-how-to-manage-my-knowledge.md
@@ -35,4 +36,3 @@ pages:
 - content/post/things-that-changed-my-life-1-read-it-later-apps.md
 - content/post/how-much-should-i-blog.md
 - content/post/my-first-weeknote.md
-- content/post/nostalgic-of-yahoo-360.md
