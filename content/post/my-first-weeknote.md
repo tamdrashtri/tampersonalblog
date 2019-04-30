@@ -2,7 +2,7 @@
 date = "2019-04-28"
 lastmod = ""
 tags = ["weeknote"]
-title = "My first weeknote"
+title = "My first weeknote (April 28 2019)"
 
 +++
 A main reason I have this blog is because I want to archive my weekly learning logs, and a blog is a great way to preserve them. I might read very interesting articles a few years back but now I remember nothing. As everyone has to forget things in order to remember new things, I think writing is a great way to forget, as Taleb once said.
