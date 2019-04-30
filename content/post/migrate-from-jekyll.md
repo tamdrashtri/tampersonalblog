@@ -1,8 +1,9 @@
 ---
-date: 2019-04-28
+date: '2019-04-28'
 tags:
 - observation
 title: No one uses Twitter in Vietnam!?
+lastmod: '2019-04-30'
 
 ---
 I spent a few hours in my life yesterday trying to find some individuals who write stuffs in Vietnamese on Twitter to follow, but I found very few. Most Twitter users abandoned their accounts after a few posts, unless they are news correspondents or influencers.
