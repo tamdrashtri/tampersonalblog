@@ -10,7 +10,7 @@ These blogs fill my mind with insights. I consider them gems on the internet. He
  1. [https://devonzuegel.com](https://devonzuegel.com "https://devonzuegel.com"): her writings on city development and traveling inspire me so much.
  2. [https://reducing-suffering.org](https://reducing-suffering.org "https://reducing-suffering.org"): truly admire this blogger. He is extremely intelligent and has a great heart. I've learned so much good stuff from him.
  3. [http://www.paulgraham.com/articles.html](http://www.paulgraham.com/articles.html "http://www.paulgraham.com/articles.html"): Paul's writings are just the best.
- 4. [austinkleon.com](): such a great blog and has a lot of inspirations.
+ 4. [austinkleon.com](austinkleon.com): such a great blog and has a lot of inspirations.
  5. [https://melanie-richards.com](https://melanie-richards.com "https://melanie-richards.com"): I love her ideas of learning logs. The website design is brilliant too.
  6. [https://frnsys.com](https://frnsys.com "https://frnsys.com"): a great mind. His stuffs just blow my mind.
  7. [https://waitbutwhy.com](https://waitbutwhy.com "https://waitbutwhy.com"): a great blogger. His writings are cool and informative.
