@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/vietnamese/tuyển-tập-các-blog-tiếng-việt.md
 - content/post/some-ideas-and-topics-i-want-to-write-about.md
 - content/project/maximizing-business-impact-with-churn-prediction-using-machine-learning-a-practical-approach.md
 - content/project/which-promotion-should-be-used-to-increase-sales-a-fast-food-chain-s-marketing-campaign-case-study-a-linear-modeling-approach-using-the-parsnip-r-package.md
