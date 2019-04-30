@@ -1,6 +1,6 @@
 +++
 date = "2019-04-28"
-draft = true
+lastmod = ""
 tags = ["weeknote"]
 title = "My first weeknote"
 
@@ -12,6 +12,7 @@ Another rationale is it helps to keep my routine going. I (and you too) learn so
 So here is my week note for the last week in April 2019:
 
 * I finished [Show Your Work](https://austinkleon.com/show-your-work/) by Austin Kleoin and it inspires me to share stuffs to other people. I've just written diaries and it is a comfort zone I set for myself. But I find it not very rewarding. Now I take more audience into consideration and I can now find ways to improve my writing.
+* [Pinkcast](https://t.co/tVCXpJRAaa) by Daniel Pink has so many great tips. I love his book To Sell is Human too.
 
 **Movies I watched:**
 
@@ -27,4 +28,3 @@ So here is my week note for the last week in April 2019:
 **Inspirations**:
 
 * [https://devonzuegel.com/post/independence-for-whom](https://devonzuegel.com/post/independence-for-whom "https://devonzuegel.com/post/independence-for-whom"): I mindlessly travelled without journaling again. This happens a lot when I travel with others. Reading Devon's blog inspires me to write and observe more.
-* 
