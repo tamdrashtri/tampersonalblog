@@ -1,9 +1,10 @@
 ---
-date: 2019-04-28
+date: '2019-04-28'
 tags:
 - business
 - inspiration
 title: 'A low cost, high retention and low-stress business: Lessons from my sister'
+lastmod: '2019-04-30'
 
 ---
 My sister used to be a lower middle class woman. She has been an average employee, doing PR and translation works, and does not earn much money. Yet she has a peaceful life compared to others. The cost of living in Vietnam is amazingly cheap, and she does not have to spend any penny on renting.

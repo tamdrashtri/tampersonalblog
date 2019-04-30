@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/lesson-from-sister.md
 - content/post/choosing-thesis.md
 - content/post/migrate-from-jekyll.md
 - content/post/nostalgic-of-yahoo-360.md
