@@ -20,5 +20,6 @@ These blogs fill my mind with insights. I consider them gems on the internet. He
 11. [https://www.safalniveshak.com/articles/](https://www.safalniveshak.com/articles/ "https://www.safalniveshak.com/articles/"): interesting guy. I should read his blog more.
 12. [https://25iq.com/author/trengriffin/](https://25iq.com/author/trengriffin/ "https://25iq.com/author/trengriffin/"): Tren has so many brilliant thoughts. Good to learn about investing.
 13. [https://praxis.fortelabs.co/category/types/free/](https://praxis.fortelabs.co/category/types/free/ "https://praxis.fortelabs.co/category/types/free/"): his blog requires paid subscription, but there are good and free blog posts too. He also shares great stuffs on Twitter.
+14. [https://www.nateliason.com/blog](https://www.nateliason.com/blog "https://www.nateliason.com/blog"): practical and fun to read.
 
 I'm able to read so many blogs thanks to my read-it-later apps and my iPad. Reading using laptops is just eye-draining for me.
