@@ -1,6 +1,6 @@
 +++
 date = "2019-04-28"
-lastmod = ""
+lastmod = "2019-04-30"
 tags = ["thoughts"]
 title = "Everyone should be a curator"
 
