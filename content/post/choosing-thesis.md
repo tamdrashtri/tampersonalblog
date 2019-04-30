@@ -1,9 +1,10 @@
 ---
-date: 2019-04-28
+date: '2019-04-28'
 tags:
 - college
 - reflection
 title: Lessons learned choosing my thesis topic
+lastmod: '2019-04-30'
 
 ---
 I hesitated for many months deciding the topic I want to write for my thesis. I was wondering whether I should write what that is practical or just inherently for the pure value of it. I decided then to write something that is practical, something that I can practice my skills and improve on it. ‍

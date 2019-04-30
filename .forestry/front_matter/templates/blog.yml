@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/choosing-thesis.md
 - content/post/migrate-from-jekyll.md
 - content/post/nostalgic-of-yahoo-360.md
 - content/post/everyone-should-be-a-curator.md
