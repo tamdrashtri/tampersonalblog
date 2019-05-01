@@ -14,3 +14,5 @@ I save all of my favorite websites, articles and blogs on [Are.na](https://www.a
 I'd love to chat with people and discuss about games, writing, music, anime and books. Feel free to [email me](mailto:nghtam179@gmail.com) or connect with me via [LinkedIn](https://www.linkedin.com/in/tamhnguyen179/).
 
 This blog is built using Hugo with the Cupper theme. The repository is available [here](https://github.com/tamdrashtri/tampersonalblog).
+
+You can start reading my blog [here](https://tamhn.me/post/).
