@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/vietnamese/nếu-được-học-đại-học-lần-nữa.md
 - content/vietnamese/về-phố-thụy-khuê.md
 - content/post/thoughts-on-personal-finance.md
 - content/post/comfortability-in-need-of-something-in-bed-to-boost-my-productivity.md
