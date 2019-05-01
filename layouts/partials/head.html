@@ -33,6 +33,7 @@
     * { background-color: inherit }
     img:not([src*=".svg"]), .colors, iframe, .demo-container { filter: invert(100%) }
   </style>
+  {{ partial "seo_schema" . }}
 
   {{ $title := print .Title " | " .Site.Title }}
   {{ if .IsHome }}
