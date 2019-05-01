@@ -449,6 +449,11 @@ caption {
 #disqus-container {
   text-align: center;
 }
+
+#disqus-thread {
+    margin-top: -1.5rem;
+}
+
 #disqus-button {
   width: 100%;
   padding: 0.25em 0.75em;
