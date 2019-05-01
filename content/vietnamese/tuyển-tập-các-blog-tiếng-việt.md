@@ -2,7 +2,7 @@
 date = "2019-04-29"
 lastmod = ""
 tags = ["list"]
-title = "Tuyển tập các blog tiếng việt"
+title = "Tuyển chọn các blog tiếng việt"
 
 +++
 Lại giống list blogs mình thấy hay bằng tiếng anh, bây giờ mình chuyển sang tiếng việt. Hồi cuối cấp 3 mình đọc nhiều blog tiếng việt vì hồi đấy thích sách mà tìm những blog về cách đọc sách, review sách này nọ. Tìm google cũng ra một đống. Nhưng vẫn có một list ngắn ngủi để share những blog mình thấy có giá trị. Danh sách thì đây:
@@ -13,5 +13,6 @@ Lại giống list blogs mình thấy hay bằng tiếng anh, bây giờ mình c
 4. [https://5xublog.wordpress.com](https://5xublog.wordpress.com "https://5xublog.wordpress.com"): đọc một vài tản văn của ảnh cũng khá hay.
 5. [https://hieutn1979.wordpress.com/](https://hieutn1979.wordpress.com/ "https://hieutn1979.wordpress.com/"): blog của thầy Hiếu, người mà mình siêu kính trọng và khâm phục.
 6. [https://zzzreview.com](https://zzzreview.com "https://zzzreview.com"): chuyên văn học.
+7. [http://doanminhphuong.net/](http://doanminhphuong.net/ "http://doanminhphuong.net/"): văn và ảnh của chị rất thơ, rất riêng.
 
 Bây giờ ai cũng dùng Facebook nên traffic cho blog không còn nhiều như ngày xưa nữa. Như mình cũng chỉ lo lướt facebook và đi follow những bloggers. Thói quen đọc blog việt cũng không còn là thói quen.
