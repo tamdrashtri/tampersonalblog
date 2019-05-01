@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/my-bucket-list.md
 - content/post/being-a-hermit-trend-in-my-university.md
 - content/post/thoughts-on-personal-finance.md
 - content/vietnamese/nếu-được-học-đại-học-lần-nữa.md
