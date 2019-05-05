@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/quick-productivity-tips.md
 - content/vietnamese/một-vài-tips-ghi-chép-trong-giờ-học.md
 - content/post/my-bucket-list.md
 - content/post/being-a-hermit-trend-in-my-university.md
