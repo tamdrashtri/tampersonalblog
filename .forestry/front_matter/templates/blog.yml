@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/vietnamese/những-điều-học-được-từ-đại-học.md
 - content/post/quick-productivity-tips.md
 - content/vietnamese/một-vài-tips-ghi-chép-trong-giờ-học.md
 - content/post/my-bucket-list.md
