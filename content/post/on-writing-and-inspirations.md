@@ -45,4 +45,6 @@ Having a good app for writing helps a lot in the process, like this Forestry thi
 
 But, why blog? Not many blog. The amount of cook versus bloggers are very unbalanced toward cooks. It's time consuming also. Can take hours per day to write a blog or find an idea. 
 
-Besides a day-to-day job, what I found is people lack a form of sharing. I have two apartment-mates at the moment, and 
+Besides a day-to-day job, what I found is people lack a form of sharing. I have two apartment-mates at the moment, and hardly I know anything about their lives at the moment, and it's no way to get updates from them unless chatting with them. I assumed people have a lot of great things to share, even if their lives are very much mundane like me. But it does not mean that it's boring. There are plenty of thinking and thoughts to get started writing like this, or to make a living in a foreign country. But it makes sense, it's hard to find a routine when they have to work from 9 to 6 every day. It's exhausting afterwards. You just want to cook, relax and sleep.
+
+Another obstacle of writing is the 
