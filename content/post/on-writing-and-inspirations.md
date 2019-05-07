@@ -37,8 +37,12 @@ Here I want to share some blogs I found very inspiring. They have provided me id
 
 Some people do write a lot despite being busy, having a full time job, or having a kid even. Just imagine how hard it is for Paul Kalanithi to write his memoir and experiences in times of cancer. I guess it was extremely hard for him. Yet he has no other motivations other than to write. It's a form of therapy and ways for people to remember him. At least he is not forgotten.
 
-When people were loving long-distance with no forms of internet, how would they know if someone is having another person or not? It would be so painful to give so much hope to a person who is going to marry, yet when we come back home then we realize the person we love is already with another person. 
+When people were loving long-distance with no forms of internet, how would they know if someone is having another person or not? It would be so painful to give so much hope to a person who is going to marry, yet when we come back home then we realize the person we love is already with another person.
 
-Doing something is a form of therapy itself. I consider it essential. Doing something actively. Learning something too. 
+Doing something is a form of therapy itself. I consider it essential. Doing something actively. Learning something too.
 
 Having a good app for writing helps a lot in the process, like this Forestry thing. They make the writing experience so much more pleasant.
+
+But, why blog? Not many blog. The amount of cook versus bloggers are very unbalanced toward cooks. It's time consuming also. Can take hours per day to write a blog or find an idea. 
+
+Besides a day-to-day job, what I found is people lack a form of sharing. I have two apartment-mates at the moment, and 
