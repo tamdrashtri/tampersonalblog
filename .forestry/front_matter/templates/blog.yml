@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/on-dating.md
 - content/vietnamese/vài-tips-nhỏ-để-làm-những-thứ-không-thích-nhưng-phải-làm.md
 - content/post/on-writing-and-inspirations.md
 - content/vietnamese/những-điều-học-được-từ-đại-học.md
