@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/vietnamese/học-cách-nói-chuyện.md
 - content/vietnamese/tổng-hợp-lời-khuyên-sức-khoẻ.md
 - content/vietnamese/trải-nghiệm-vipassana.md
 - content/post/value-of-community.md
