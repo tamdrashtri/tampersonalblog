@@ -14,10 +14,11 @@ Sống tối giản:
 
 Ăn tối giản:
 
-* Không mua đồ ăn vặt 
+* Không mua đồ ăn vặt
 * Không mua coffee hàng ngày, đừng có mặc định là đi cafe
 * Không hút thuốc, uống rượu. 2 điều này tốn siêu nhiều tiền
 * Ăn nhiều rau và hoa quả
 * Giảm số lượng bữa ăn hàng ngày. thỉnh thoảng lắm mình mới ăn 2 bữa
+* Ăn ngoài tối đa 2 lần một tuần. Học cách nấu ăn
 * 
 * 
