@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/vietnamese/sống-ở-vancouver.md
 - content/vietnamese/học-cách-ăn-và-sống-tối-giản.md
 - content/vietnamese/học-cách-nói-chuyện.md
 - content/vietnamese/tổng-hợp-lời-khuyên-sức-khoẻ.md
