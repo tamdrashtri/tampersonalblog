@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/i-don-t-mind-what-i-think.md
 - content/vietnamese/phim-xem-mấy-tuần-nay.md
 - content/post/modeling-romantic-relationships.md
 - content/vietnamese/sống-ở-vancouver.md
