@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 lastmod = ""
 tags = []
 title = "What rental properties should be invested to maximize profits? Converting from long-term to short-term rentals: A Real Estate Case Study"
