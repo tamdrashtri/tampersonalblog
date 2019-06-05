@@ -6,17 +6,11 @@ tags = []
 title = "What rental properties should be invested to maximize profits? Converting from long-term to short-term rentals: A Real Estate Case Study"
 
 +++
-![](https://miro.medium.com/max/60/1*oDKkkRviVE4NuF1jjoRo2A.png?q=20 =1000x793)
-
 ![](https://miro.medium.com/max/2000/1*oDKkkRviVE4NuF1jjoRo2A.png =1000x793)
-
-The Tableau Dashboard for this project
 
 Given about $500,000, how should Watershed spend its money to maximize their ROI? By conducting modeling and sensitivity analysis, I recommend that Watershed can focus their initial investment on **_15 specific rental properties that generate at least $30,000 yearly profit and are located densely in Miami, Austin, San Diego, Palo Alto, and New York_. The first stage focuses on 2 bedroom houses since they are the most profitable ones. The later stage can be spent on converting 1 bedroom houses and other types of apartments.**
 
 For my sensitivity analysis, I set all variables as unchanged except the profitability cutoff. The reason I do not change other variables being they are already informed numbers from different stakeholders. Therefore, investing Watershed’s initial cash on the variable that can be changed and has the most potential ROI, profitability cutoff, can help us focus on properties that are most profitable given the limited cash given, $500,000.
-
-![](https://miro.medium.com/max/60/1*40aPRQ3m051bj2OOIL1SZg.png?q=20 =500x476)
 
 ![](https://miro.medium.com/max/1000/1*40aPRQ3m051bj2OOIL1SZg.png =500x476)
 
@@ -26,17 +20,17 @@ In the dashboard, for the parameter control, I increase the profitable cutoff fr
 
 As a result, only 15 properties are able to meet this profitability threshold. You can see the distribution of each of these properties in this box plot. Most properties have a yearly profit of about $35000 to $65000. Then a few scatter properties have the most profit at $90000 to $138000. At this point, we can ask if there is any pattern in these 15 properties. In other words, do they share some similarities?
 
-![](https://miro.medium.com/max/60/1*5a8Zn42GZ-W5xP1PH8SKvw.png?q=20 =700x201)
+!\[\](https://miro.medium.com/max/60/1*5a8Zn42GZ-W5xP1PH8SKvw.png?q=20 =700x201)
 
 ![](https://miro.medium.com/max/1400/1*5a8Zn42GZ-W5xP1PH8SKvw.png =700x201)
 
 The first similarity is observed by location. Most of these properties are located in Miami and Austin, while the rest are scattered in Palo Alto, New York, and San Diego. Then I highlight what bedroom and types have the most presence: the two-bedroom house. The second most popular is the one-bedroom house. The analysis shows that apartments are not as profitable as houses.
 
-![](https://miro.medium.com/max/60/1*cgiFlpjDybIp8Ni51zdNBw.png?q=20 =502x351)
+!\[\](https://miro.medium.com/max/60/1*cgiFlpjDybIp8Ni51zdNBw.png?q=20 =502x351)
 
 ![](https://miro.medium.com/max/1004/1*cgiFlpjDybIp8Ni51zdNBw.png =502x351)
 
-![](https://miro.medium.com/max/60/1*Vp4IQK2b_M9Xs89FDeUL4g.png?q=20 =498x351)
+!\[\](https://miro.medium.com/max/60/1*Vp4IQK2b_M9Xs89FDeUL4g.png?q=20 =498x351)
 
 ![](https://miro.medium.com/max/996/1*Vp4IQK2b_M9Xs89FDeUL4g.png =498x351)
 
