@@ -1,19 +1,20 @@
 +++
 date = "2019-07-23"
-draft = true
 lastmod = ""
 tags = []
-title = "Health and productivity rules that work for me"
+title = "Productivity rules that work for me"
 
 +++
-## Productivity rules:
+This list is based on what works for me. Comment on what works for you, if you don't mind. 
+
+### Productivity rules:
 
 * Build a regular habit for long-term skill building (i.e. learning an instrument). Work on it every day. Try not to break the chain otherwise it adds friction to your habit.
 * Stop eating when you're 80% full. Don't eat so full because your stomach will have to work really hard and it is not good for work and productivity. You might get tired the whole day because your stomach uses too much energy.
-* Inbox Zero if you don't want to get flooded by your emails coming in. It'll give you headache. Flow-e can help you with this.
+* Inbox Zero if you don't want to get flooded by your emails coming in. It'll give you headache. [Flow-e](https://flow-e.com) can help you with this.
 * Keep track and record all of your upcoming events, to do list on a digital calendar or a personal Kanban system. That helps to reduce the burden for your brain to carry.
 * Go paperless. This is because writing your schedule on a notebook does not have the same support system like notification as in an app that has reminders.
-* Use a meal planner and set recipes for the next week in advance. So you don't have to think too much about what to cook before the meal. It happened to me a few times where it's time to cook and I don't know what to cook and if I have enough ingredients.
+* Use a meal planner and set recipes for the next week in advance. So you don't have to think too much about what to cook before the meal. It happened to me a few times where it's time to cook and I don't know what to cook and if I have enough ingredients. Check my [meal planner](https://www.notion.so/tami/Meal-Planner-9367905b07074f60b0dac3f25bdbe277) here for reference.
 * Keep your room, bathroom and kitchen clean. It boosts your mood.
 * Combine a boring activity which you're not willing to do with an activity that is pleasant and passive. Like listening to a podcast while you're doing chores. You'll be amazed how much easier it is to do things you feel bored.
 * Checklist: keep a checklist of essential things for travel or whenever going out. I forgot my wallet sometimes and have to go back to home. Checklists make sure I don't forget.
@@ -21,28 +22,4 @@ title = "Health and productivity rules that work for me"
 * Make yourself rules for email: such as checking mails only 3 times a day.
 * Don't drink or eat too much before sleep. This will make you fall asleep harder.
 
-## Health rules:
-
-* Eat lots of veggies and fruits. They have good sources of vitamin and fiber (help you fight against diseases). An apple a day is good for your health with no side effects.
-* This is following the first advice: buy frozen fruits and veggies instead of fresh ones. You can keep it for longer time while it even has more nutrients than fresh ones.
-* Cook at home. You can control your sodium or sugar intake. And learning to cook is fun too. And it keeps your life interesting because you learn something new every day.
-* Set your discipline to only eat out 1-2 meals a week.
-* Drink lots of water in a day. After you wake up and before meals.
-* Avoid pizza, processed food and snacks. Don't have it at home. 
-
-## If you love the planet:
-
-* Use public transportation
-
-## How to save money
-
-* Postpone buying attractive items immediately and consider alternatives. Wait 24 hours to buy the product if really needed.
-* Check out return rules before purchasing.
-* 
-
-I still don't know how to:
-
-* Weekly reflection and daily reflection
-* Exercise every day
-
-* Design from templates instead of from scratch. This saves much more time compared to designing from scratch. Canva.com helps. 
+To be updated.
