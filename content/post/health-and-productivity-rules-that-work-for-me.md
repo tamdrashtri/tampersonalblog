@@ -17,11 +17,9 @@ title = "Health and productivity rules that work for me"
 * Keep your room, bathroom and kitchen clean. It boosts your mood.
 * Combine a boring activity which you're not willing to do with an activity that is pleasant and passive. Like listening to a podcast while you're doing chores. You'll be amazed how much easier it is to do things you feel bored.
 * Checklist: keep a checklist of essential things for travel or whenever going out. I forgot my wallet sometimes and have to go back to home. Checklists make sure I don't forget.
-* 
-
-Things I have to learn
-
-* Weekly reflection and daily reflection
+* Do things in batch. Like reading all your news at once rather than scattering it to different times in a day.
+* Make yourself rules for email: such as checking mails only 3 times a day.
+* Don't drink or eat too much before sleep. This will make you fall asleep harder.
 
 ## Health rules:
 
@@ -29,4 +27,22 @@ Things I have to learn
 * This is following the first advice: buy frozen fruits and veggies instead of fresh ones. You can keep it for longer time while it even has more nutrients than fresh ones.
 * Cook at home. You can control your sodium or sugar intake. And learning to cook is fun too. And it keeps your life interesting because you learn something new every day.
 * Set your discipline to only eat out 1-2 meals a week.
+* Drink lots of water in a day. After you wake up and before meals.
+* Avoid pizza, processed food and snacks. Don't have it at home. 
+
+## If you love the planet:
+
+* Use public transportation
+
+## How to save money
+
+* Postpone buying attractive items immediately and consider alternatives. Wait 24 hours to buy the product if really needed.
+* Check out return rules before purchasing.
 * 
+
+I still don't know how to:
+
+* Weekly reflection and daily reflection
+* Exercise every day
+
+* Design from templates instead of from scratch. This saves much more time compared to designing from scratch. Canva.com helps. 
