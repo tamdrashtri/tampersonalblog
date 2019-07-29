@@ -1,0 +1,17 @@
++++
+date = ""
+draft = true
+lastmod = ""
+tags = []
+title = "My first full-time job"
+
++++
+I will be working as a data analyst tomorrow and this is my first full time job after 1 decade, approximately. I hope this will be excitement and I can contribute to the company, as well as learning a lot of things at the same time.
+
+This is a normal business analyst job, as I can imagine. This is what I wish to do, leveraging business performance using analytics. I might need to study further about the applications of analytics for business and take note and synthesize that. 
+
+My weekly reflection:
+
+* I recently learned to make use of my time commuting to listen to online courses. I somehow came up with that idea of watching Udemy videos because I was so impatient when I sit like in the academic setting, watching 15-20 mins lectures. This idea helps me tremendously since I'm now willingly watching many lectures I used to procrastinate. And this is certainly better than driving a car to work. I can save time, but ultimately I might not save if I drive because I can use the time on the bus to learn something new. I might be able to finish the business essentials specialization and other courses on Coursera much quickly. 
+* I noticed my interactions with people are quite automatic, and this is ingraining to me even further as time goes on. If I'm not conscious then these problems will even get more serious. Like I constantly say 'really' without thinking of it beforehand. Or I say 'but' a lot when I talk with people. 'But' is a negative word and I better substitute it to 'and'. And I constantly interrupt people while they're talking. I'm improving it and I found it helpful to really listen. It's a skill I have to cultivate further. All of these observations make me think of the world as a training ground for me to improve myself, through everyday interactions. I will take every chance possible to improve this when I interact with someone.
+* I observed I found a new leisure: cooking. I spent hours watching new recipes videos and I get excited to cook. This makes me think of cooking as therapeutic, because I'm willing to do it instead of forcing myself to do it. I know many people look very charming and don't know how to cook. And to be honest cooking is not that hard. And I feel blessed because I'm not in Vietnam, otherwise I would be so tempted. And when I started cooking I don't know why but I feel I want to be more healthy, although I'm having no major diseases. This is because I think the major diseases will add up as time passes. Look at a lot of my old friends. Making friends with old people is helpful in some ways, because it makes us realize diet is so important to our health, and even so, we are not willing to make a change to our diet and commit to eat healthier. The large majority of Vietnamese young people eat out every day, like I was in Vietnam and I know this is not helpful to me. I don't learn anything new. Also I need to reduce salt in my diet since I realized I seem to put too much salt. The food industry is cool. A lot of people make a lot of money just by people who are not willing to cook at home, like me in the past. Yet eating out is helpful to make us discover new dishes so we can make our own food at home later on.
