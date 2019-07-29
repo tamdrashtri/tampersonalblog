@@ -23,5 +23,6 @@ This list is based on what works for me. Comment on what works for you, if you d
 * Make rules for email: such as checking mails only 3 times a day.
 * Don't drink or eat too much before sleep. This will make you fall asleep harder.
 * Focus on your next action. This is the GTD method. Specify clearly what you need to do on each project. Don't make it abstract. For example, you want to create some self experiments to try on yourself, and you want to eat fruits for breakfast every day. What you want to do is not writing: "eat fruits for breakfast every day", but "make breakfast with grapes, cherries and some frozen fruits on every day of the week". This can help you to be clear on the action you need to do.
+* Do a weekly review. This is to follow the GTD methodology.
 
 To be updated.
