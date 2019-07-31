@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/first-week-of-work.md
 - content/post/my-first-full-time-job.md
 - content/post/health-and-productivity-rules-that-work-for-me.md
 - content/post/some-health-tips.md
