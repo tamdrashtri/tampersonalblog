@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/choose-our-burdens-wisely-the-art-of-choosing-a-partner.md
 - content/post/health-and-productivity-rules-that-work-for-me.md
 - content/post/remind-ourselves-of-blindspots.md
 - content/post/balancing-exploration-and-exploitation.md
