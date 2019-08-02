@@ -1,6 +1,5 @@
 +++
 date = "2019-07-23"
-draft = true
 lastmod = ""
 tags = []
 title = "Productivity rules that work for me"
