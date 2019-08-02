@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/balancing-exploration-and-exploitation.md
 - content/post/first-week-of-work.md
 - content/vietnamese/what-i-learned-from-the-songwriting-course-from-coursera.md
 - content/post/i-don-t-mind-what-i-think.md
