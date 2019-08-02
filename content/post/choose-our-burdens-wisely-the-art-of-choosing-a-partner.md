@@ -1,6 +1,5 @@
 +++
 date = "2019-08-01"
-draft = true
 lastmod = ""
 tags = []
 title = "Choose our burdens wisely: the art of choosing a partner"
