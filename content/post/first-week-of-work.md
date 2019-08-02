@@ -11,3 +11,7 @@ Find the problem to work on is even more important than the technical skills I h
 Deep learning does have very cool applications. What I'm interested more instead is reinforcement learning. It's just that I don't have enough ability to learn it yet. Have to learn basic Python first. Then I could think of other things.
 
 Udacity gives me a tons of resources where I can learn this shit. Super expected to learn all these shit. From there I can leverage even more. Also it will help to find all the problem statement for data analysis in business. Once I understand both business and data analysis, I'll be unstoppable. The great thing about being a data person is that I can understand how the company works in general, though I might not now what the HR person does, or what other people do specifically. Just the data. But it's quite enough.
+
+I feel a need to learn some essential stuff like accounting, finance, what are related to business so I get to know the context of the analysis, knowing what's important to include. So I'm trying to fill these gaps I have. Even people in the innovation department or sales department has to have a MBA too. 
+
+The environment is friendly, I don't feel too cramped. Very pleasant actually. The thing is there is so much data cleaning that I feel like doing labor work. I start work very early, so I don't know if it's okay to do that. 
