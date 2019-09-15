@@ -38,4 +38,6 @@ Có khá nhiều thức ăn chứa vitamin A như: trái cây, rau, trứng, s�
 
 Các thực vật chứa carotenoids cũng được chuyển đổi thành vitamin A, chứa trong cà rốt.
 
+##### Các nghiên cứu tham khảo
+
 [http://www.ncbi.nlm.nih.gov/pubmed/3336176](http://www.ncbi.nlm.nih.gov/pubmed/3336176 "http://www.ncbi.nlm.nih.gov/pubmed/3336176")
