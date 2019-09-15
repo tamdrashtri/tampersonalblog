@@ -10,9 +10,7 @@ Nếu bạn bị thiếu máu hay khô mắt, khả năng cao bạn đang thiế
 
 ### Vitamin A là gì?
 
-Vitamin A không phải là một hợp chất đơn lẻ mà là một nhóm các hợp chất hóa học có cấu trúc tương tự nhau.
-
-Retinol và beta-carotene là một số dạng vitamin A phổ biến nhất được tìm thấy trong thực phẩm và chất bổ sung. Có ở cả động vật và thực vật.
+Vitamin A là một nhóm các hợp chất hóa học có cấu trúc tương tự nhau. Như retinol và beta-carotene là một số dạng vitamin A phổ biến nhất được tìm thấy trong thực phẩm hay chất bổ sung. Có ở cả động vật và thực vật.
 
 ### Tại sao Vitamin A tốt cho da?
 
@@ -20,11 +18,11 @@ Vitamin A làm tăng lượng collagen trong cơ thể. Áp dụng vitamin A cho
 
 ### Vitamin A có tác dụng gì nhất theo khoa học?
 
-Tác dụng của vitamin A mạnh nhất với việc giảm nếp nhăn cho da 
+Nhiều chứng minh cho rằng tác dụng của vitamin A tốt nhất với việc giảm nếp nhăn cho da.
 
 Sử dụng vitamin A mỗi đêm có thể làm giảm nếp nhăn liên quan đến tuổi tác bằng cách tăng độ dày của da. Tiếp tục sử dụng vitamin A cũng có thể làm sáng những vết trong da như đốm nắng. Khi thoa lên mặt, vitamin A có thể làm cho làn da mịn màng hơn.
 
-Nhiều nghiên cứu chứng minh thấy các nếp nhăn nhỏ (nhỏ) giảm khá nhiều bằng việc bôi tại chỗ một loại kem vitamin A hàng đêm, với hiệu quả ở mọi lứa tuổi.
+Nhiều nghiên cứu chứng minh thấy các nếp nhăn nhỏ giảm khá nhiều bằng việc bôi tại chỗ một loại kem vitamin A hàng đêm.
 
 ### Những tác dụng chưa được chứng minh
 
