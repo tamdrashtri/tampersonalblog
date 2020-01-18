@@ -16,9 +16,9 @@ Nói mình cũng quá nửa tuổi trẻ. Nên viết từ bây giờ. Chứ kh�
 
 Có lẽ nên bắt đầu bằng việc tập hợp lại những gì mình đọc được hàng tuần. Mình đặt tên nó là Nhật kí tuần.
 
-Đọc
+### Đọc
 
-### Tài chính
+#### Tài chính
 
 * [Bảng tài chính cá nhân](https://site.us17.list-manage.com/track/click?u=3061c0f761fea583e4c8210a9&id=a7ea3f6dc0&e=055d44805e) để đạt tự do tài chính:
 
