@@ -1,6 +1,5 @@
 +++
 date = "2020-01-17"
-draft = true
 lastmod = ""
 tags = []
 title = "Nhật kí tuần số 1"
