@@ -1,43 +1,41 @@
 +++
-date = "2020"
+date = "2020-01-24"
 draft = true
 lastmod = ""
 tags = []
 title = "Nhật kí tuần số 2"
 
 +++
+Tết đến rồi. Năm ngoái lúc này mình còn đang loay hoay ở Việt Nam. Sáng mùng 1 đi chùa Một Cột rồi dạo loanh quanh tìm quán cafe với bố. Không tìm được quán nào. Mình chán tết. Đồ ăn đều đắt hơn hẳn. Bạn bè thì về quê. Nhiều việc phải làm do bác giúp việc cũng không đi làm.
+
 Mình bắt đầu thúc đốc bản thân dành mỗi ngày 10 phút để viết. Nhiều lúc vẫn thầy ì ra, ngồi xem Netflix.
 
 ## Chuyện đi làm
 
-  
-Đi làm mình bắt đầu cảm thấy khó tránh khỏi hiểu lầm trong công việc, dù sếp mình có tốt/giỏi đi chăng nữa. Vẫn thoải mái hơn nếu làm riêng. Nhưng chỉ nên tự làm riêng khi đã có một khoản thu nhập nhất định từ nó trước.  
-  
+Đi làm mình bắt đầu cảm thấy khó tránh khỏi hiểu lầm trong công việc, dù sếp mình có tốt/giỏi đi chăng nữa. Vẫn thoải mái hơn nếu làm riêng. Nhưng chỉ nên tự làm riêng khi đã có một khoản thu nhập nhất định từ nó trước.
+
 Nếu thực sự công ty muốn mọi người yêu công việc của mình hơn thì nên dành nhiều tự do cho họ hơn. Ví dụ như không bắt họ phải làm 8 tiếng rồi mới về. Xong việc, họ có thể về. Hoặc làm trong quán cafe nếu họ muốn. Có những người thích không khí cafe, họ mới làm hiệu quả.
 
 ## Chuyện xem phim
 
-  
-Không phủ nhận phim của Netflix đời thường mà liên hệ được. Hình ảnh âm thanh đều rất chuẩn. Nghệ thuật kể chuyện mình cũng học được rất nhiều.   
-  
-Dạo này mình có xu hướng xem các shows về nấu ăn hơn hẳn trước, cũng như các vấn đề trong chuỗi cung ứng thức ăn - ví dụ Rotten, Salt Fat Acid Heat, Cooked.   
-  
-Phim hay xem tuần trước: Gone Girl. Chuyện kể về một người đàn bà mất tích để cố tình gây tai tiếng/trả thù ông chồng. Trong câu chuyện đấy cũng nói về ông chồng - 2 người đều là nhân vật chính. Bạn mình nói rất hay lúc cuối phim - không ai là nhân vật chính diện cả. Cấu trúc phim này thú vị hơn hẳn các cốt truyện hồi xưa, như lúc mình xem phim Viking Destiny - vừa xem đã biết ai là chính diện và ngược lại.  
-  
-Mình cũng bắt đầu có xu hướng xem phim với bạn rồi xem phim tài liệu một mình. Chia ra làm hai kiểu xem khác nhau.  
-  
+Không phủ nhận phim của Netflix đời thường mà liên hệ được. Hình ảnh âm thanh đều rất chuẩn. Nghệ thuật kể chuyện mình cũng học được rất nhiều.
+
+Dạo này mình có xu hướng xem các shows về nấu ăn hơn hẳn trước, cũng như các vấn đề trong chuỗi cung ứng thức ăn - ví dụ Rotten, Salt Fat Acid Heat, Cooked.
+
+Phim hay xem tuần trước: Gone Girl. Chuyện kể về một người đàn bà mất tích để cố tình gây tai tiếng/trả thù ông chồng. Trong câu chuyện đấy cũng nói về ông chồng - 2 người đều là nhân vật chính. Bạn mình nói rất hay lúc cuối phim - không ai là nhân vật chính diện cả. Cấu trúc phim này thú vị hơn hẳn các cốt truyện hồi xưa, như lúc mình xem phim Viking Destiny - vừa xem đã biết ai là chính diện và ngược lại.
+
+Mình cũng bắt đầu có xu hướng xem phim với bạn rồi xem phim tài liệu một mình. Chia ra làm hai kiểu xem khác nhau.
+
 Cũng không hiểu tại sao mình ít xem phim hơn xưa.
 
 ## Chuyện ăn uống
 
-  
 1 tuần nay mình cũng bắt đầu một chế độ herbal detox dài 12 ngày, nhận ra sau vài ngày không ăn đường mình bắt đầu thèm đồ ngọt/cơm - những món ăn chưa nhiều đường/carb. Rồi mình cũng thèm ăn ngoài - mà chưa ăn ngoài được lần nào.
 
 ## Tài chính
 
-  
-Về đầu tư, mặc dù cấu trúc đầu tư của mình đã khá ổn định nhưng mình vẫn muốn tìm hiểu và đọc về nó. Giống như một kiểu nghiện - tương tự như productivity porn. Cái hay là mình có thể dùng cái sở thích này để tạo động lực kinh doanh, cũng như viết về những bài học đầu tư mình học/đọc được. Không lúc nào là thiếu thứ để học cả.  
-  
+Về đầu tư, mặc dù cấu trúc đầu tư của mình đã khá ổn định nhưng mình vẫn muốn tìm hiểu và đọc về nó. Giống như một kiểu nghiện - tương tự như productivity porn. Cái hay là mình có thể dùng cái sở thích này để tạo động lực kinh doanh, cũng như viết về những bài học đầu tư mình học/đọc được. Không lúc nào là thiếu thứ để học cả.
+
 Mình bắt đầu tập chia sẻ các kiến thức tài chính trên Facebook ở đây:
 
 ## Đọc
