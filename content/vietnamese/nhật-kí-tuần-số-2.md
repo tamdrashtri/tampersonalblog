@@ -2,7 +2,7 @@
 date = "2020-01-24"
 lastmod = ""
 tags = []
-title = "Nhật kí tuần số 2"
+title = "Nhật kí tuần số 2: detox và netflix "
 
 +++
 Tết đến rồi. Năm ngoái lúc này mình còn đang loay hoay ở Việt Nam. Sáng mùng 1 đi chùa Một Cột rồi dạo loanh quanh tìm quán cafe với bố. Không tìm được quán nào. Mình chán tết. Đồ ăn đều đắt hơn hẳn. Bạn bè thì về quê. Nhiều việc phải làm do bác giúp việc cũng không đi làm.
