@@ -2,7 +2,7 @@
 date = "2020-01-17"
 lastmod = ""
 tags = []
-title = "Nhật kí tuần số 1"
+title = "Nhật kí tuần số 1: Bắt đầu viết "
 
 +++
 Mình phải bắt đầu viết rồi. Bạn mình bảo:
