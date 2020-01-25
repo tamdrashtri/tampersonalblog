@@ -36,9 +36,3 @@ Kiếm được [$100k ban đầu là giai đoạn khó khăn nhất](https://fo
 [How Negativity Can Kill a Relationship](https://site.us17.list-manage.com/track/click?u=3061c0f761fea583e4c8210a9&id=c1f64fab9b&e=055d44805e): Bài viết rất hay nói về việc tiêu cực ảnh hưởng đến mối quan hệ thế nào. Cá nhân thì mình thấy không ở trong mối quan hệ cũng thế - việc gì tiêu cực xảy ra mình đều coi rất nghiêm trọng và ảnh hưởng đến tâm trạng cả ngày. Việc nhìn đúng vị thế của việc tiêu cực sẽ quyết định mối quan hệ.
 
 [Tầm quan trọng của việc lượng hóa suy nghĩ](https://site.us17.list-manage.com/track/click?u=3061c0f761fea583e4c8210a9&id=28f6f59cf5&e=055d44805e): Thay vì cúi đầu tập trung vào xem và luyện trí nhớ theo Siêu Trí Tuệ, việc suy nghĩ theo tay chơi Poker chuyên nghiệp có thể giúp quyết định thông minh hơn. Ví dụ khi nói "ngày mai em có thể tới thăm chị được" thì nói 'có khả năng 70% em sẽ tới chơi với chị". Việc này giúp giảm thiểu confirmation bias và bắt đầu suy nghĩ theo xác suất.
-
-#### Về việc viết 
-
-* Mình có thể viết về tài chính cá nhân, phân tích dữ liệu, và sức khoẻ. Mình bắt đầu trước bằng việc tổng hợp lại qua đây rồi đăng lên các group nếu thấy có gì tiềm năng.
-* Đối với mình việc có thói quen viết rất quan trọng, hơn việc chất lượng viết thế nào. Mình phải viết nhiều thì mới có thể viết chất lượng được. Không có thói quen, coi như mình bỏ cuộc luôn trong vòng vài ngày. Với những người làm nghề viết thì viết là chuyện cơm bữa hàng ngày. Họ được luyện kĩ năng viết, và có thói quen vậy. Mình thì không nên phải tự tạo thói quen.
-* Thế nên việc mình có thể làm để phát triển thói quen viết này là: tổng hợp các bài thành series nhật kí tuần.
