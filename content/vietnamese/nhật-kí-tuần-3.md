@@ -8,9 +8,19 @@ title = "Nhật kí tuần 3:"
 +++
 Mấy hôm nay mình không viết được mấy. Cứ về nhà nằm 1 tí đã thấy buồn ngủ. Nhận ra thời gian hiệu quả nhất của mình là lúc ngồi vào bàn làm việc, ở công ty. Về nhà là mình ì ra, thụ động.
 
+#### Chuyển nhà
+
+Hôm nay mình chuyển nhà. Nhận thấy có cải thiện lớn về tổng số lượng đồ. Mỗi lần chuyển mình đều vứt đi rất nhiều đồ để cho đỡ mệt, rồi cũng vì mình mua về xong không dùng nhiều những món đồ đấy.
+
+Đồ ăn của mình ít đi hẳn. Các chai dầu gia vị cũng thế, ít nặng hơn hẳn. Làm mình thấy vui hơn vì mình đang dùng những gì mình có, thay vì mua về xong để đấy cả năm, không dùng tí nào. 
+
+Việc có một cái nhà ở lâu dài cũng thích, nhưng sẽ tạo ra thói quen chồng quá nhiều đồ trong nhà, không chịu vứt đi những thứ cần thiết. Vấn đề của rất nhiều nhà đang là vậy, không biết dọn, sắp xếp đồ đạc thế nào để tạo sự thoải mái. Bảo sao Marie Kondo thành triệu phú.
+
+Bài học là: không nên 
+
 ### Về công việc
 
-Làm ở công ty nhỏ cũng có cái hay: được động vào nhiều lĩnh vực dù mình không phải chuyên gia, như inventory chẳng hạn. Data analytics có thể giúp inventory rất nhiều. 
+Làm ở công ty nhỏ cũng có cái hay: được động vào nhiều lĩnh vực dù mình không phải chuyên gia, như inventory chẳng hạn. Data analytics có thể giúp inventory rất nhiều.
 
 Công ty mà có quá nhiều manual processes tạo ra rất nhiều tổn phí về mặt thời gian, cũng tạo thêm mệt mỏi cho nhân viên.
 
@@ -26,9 +36,9 @@ Gần đây mình bắt đầu thử ăn ngoài nhiều hơn, đặc biệt là 
 
 Ăn ngoài thực ra có nhiều lợi ích: tiện và tiết kiệm thời gian. Vấn đề là nếu mình nấu không đủ ngon, mình sẽ chỉ muốn ăn ngoài. Mà ăn ngoài nhiều thì khó có cơ hội dành thời gian nấu ăn. Ngắn gọn là:
 
-> Ăn ngoài nhiều <-> nấu ăn không ngon.
+> Ăn ngoài nhiều <-> Nấu ăn không ngon.
 
 ### Đọc
 
-* Phục [blog ](https://marginalrevolution.com/marginalrevolution/2020/01)của bác Tyler Cowen: mình subscribe email newsletter của bác, ngày nào cũng thấy bác đăng chia sẻ. Đọc rất nhiều, viết cũng rất nhiều. Mình thấy tích cực hơn nhiều các học giả ở các trường đại học mình đã từng học. Dù gì các học giả cũng nên chia sẻ kiến thức cho công chúng nhiều hơn. Có lợi cho xã hội - thay vì chỉ tập trung viết những bài nghiên cứu hay chỉ dạy học không. Các học giả cũng có lợi khác là nhiều thời gian nghiên cứu, đọc và viết. Họ có thể dùng những thời gian nghiên cứu của mình song song với việc chia sẻ kiến thức của họ. 
+* Phục [blog ](https://marginalrevolution.com/marginalrevolution/2020/01)của bác Tyler Cowen: mình subscribe email newsletter của bác, ngày nào cũng thấy bác đăng chia sẻ. Đọc rất nhiều, viết cũng rất nhiều. Mình thấy tích cực hơn nhiều các học giả ở các trường đại học mình đã từng học. Dù gì các học giả cũng nên chia sẻ kiến thức cho công chúng nhiều hơn. Có lợi cho xã hội - thay vì chỉ tập trung viết những bài nghiên cứu hay chỉ dạy học không. Các học giả cũng có lợi khác là nhiều thời gian nghiên cứu, đọc và viết. Họ có thể dùng những thời gian nghiên cứu của mình song song với việc chia sẻ kiến thức của họ.
 * 
