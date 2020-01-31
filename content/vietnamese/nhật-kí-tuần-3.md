@@ -1,5 +1,5 @@
 +++
-date = ""
+date = "2020-31-01"
 lastmod = ""
 tags = []
 title = "Nhật kí tuần 3:"
