@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 lastmod = ""
 tags = []
 title = "Nhật kí tuần 3:"
@@ -16,7 +15,9 @@ Hôm nay mình chuyển nhà. Nhận thấy có cải thiện lớn về tổng 
 
 Việc có một cái nhà ở lâu dài cũng thích, nhưng sẽ tạo ra thói quen chồng quá nhiều đồ trong nhà, không chịu vứt đi những thứ cần thiết. Vấn đề của rất nhiều nhà đang là vậy, không biết dọn, sắp xếp đồ đạc thế nào để tạo sự thoải mái. Bảo sao Marie Kondo thành triệu phú.
 
-Bài học là: không nên 
+Bài học là: quản lí đồ đạc cá nhân một cách chặt chẽ. Đừng mua cái gì quá to, dùng không nhiều rồi vứt xó. Mua nhiều second hand để tiết kiệm tiền. Cái áo da mình mua từ cửa hàng đồ cũ có $20, trong khi nếu mua mới sẽ tầm $200. Số tiền không nhỏ để mình làm nhiều thứ hơn. 
+
+Vấn đề lớn nhất của mình là chất rất nhiều đồ ăn. Thùng đồ ăn thì siêu nhiều và nặng. Làm mọi người nhìn cũng thấy sợ. Ít nhất là bây giờ đỡ hơn một chút.
 
 ### Về công việc
 
@@ -41,4 +42,4 @@ Gần đây mình bắt đầu thử ăn ngoài nhiều hơn, đặc biệt là 
 ### Đọc
 
 * Phục [blog ](https://marginalrevolution.com/marginalrevolution/2020/01)của bác Tyler Cowen: mình subscribe email newsletter của bác, ngày nào cũng thấy bác đăng chia sẻ. Đọc rất nhiều, viết cũng rất nhiều. Mình thấy tích cực hơn nhiều các học giả ở các trường đại học mình đã từng học. Dù gì các học giả cũng nên chia sẻ kiến thức cho công chúng nhiều hơn. Có lợi cho xã hội - thay vì chỉ tập trung viết những bài nghiên cứu hay chỉ dạy học không. Các học giả cũng có lợi khác là nhiều thời gian nghiên cứu, đọc và viết. Họ có thể dùng những thời gian nghiên cứu của mình song song với việc chia sẻ kiến thức của họ.
-* 
+* [Blog](https://kylascanlon.com/) này truyền cảm hứng cho mình: những bài phân tích cực chuyên sâu và áp dụng thống kê rất chuẩn, chặt chẽ, thực tế. Mình có thể học được rất nhiều cách phân tích của chị.
