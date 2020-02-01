@@ -2,7 +2,7 @@
 date = "2020-31-01"
 lastmod = ""
 tags = []
-title = "Nhật kí tuần 3:"
+title = "Nhật kí tuần 3: chuyển nhà và chuyện ăn fast food "
 
 +++
 Mấy hôm nay mình không viết được mấy. Cứ về nhà nằm 1 tí đã thấy buồn ngủ. Nhận ra thời gian hiệu quả nhất của mình là lúc ngồi vào bàn làm việc, ở công ty. Về nhà là mình ì ra, thụ động.
