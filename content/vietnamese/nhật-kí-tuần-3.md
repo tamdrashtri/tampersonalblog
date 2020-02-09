@@ -1,5 +1,5 @@
 +++
-date = "2020-31-01"
+date = "2020-01-31"
 lastmod = ""
 tags = []
 title = "Nhật kí tuần 3: chuyển nhà và chuyện ăn fast food "
