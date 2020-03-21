@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/Checklist.md
 - content/post/balancing-exploration-and-exploitation.md
 - content/post/being-a-hermit-trend-in-my-university.md
 - content/post/building-spiritual-muscles-in-difficult-times.md
