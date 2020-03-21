@@ -1,9 +1,10 @@
 +++
 date = ""
-draft = true
 lastmod = ""
 tags = []
-title = ""
+title = "Everything is fine"
 
 +++
 `* [ ] What is the first article?`
+
+`[ ] What is the first article? What makes everything`
