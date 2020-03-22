@@ -1,7 +1,7 @@
 +++
 date = "2020-03-22"
 lastmod = ""
-tags = []
+tags = ["marketing"]
 title = "CXL Growth Marketing - Week 1 Reflections"
 
 +++
