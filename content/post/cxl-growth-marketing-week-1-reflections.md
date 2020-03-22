@@ -2,7 +2,7 @@
 date = "2020-03-22"
 lastmod = ""
 tags = ["marketing"]
-title = "CXL Growth Marketing - Week 1 Reflections"
+title = "Tam Nguyen Post 1 - CXL Growth Marketing - Week 1 Reflections"
 
 +++
 After leaving my last job as a data analyst, I decided to switch gears to marketing analytics. I've always wanted to apply analytics to marketing. So I explored some online options, looking for a structured learning approach. I chose CXL growth marketing mini-program and applied for the scholarship. I've been amazed at the incredible learning materials they have.
