@@ -1,60 +1,53 @@
 baseURL = "https://tamhn.me"
-languageCode = "en-us"
+canonifyURLs = true
 defaultContentLanguage = "en"
-title = "Tam's Personal Blog"
-theme = "cupper-hugo-theme"
-googleAnalytics = "UA-139233829-1"
 disqusShortname = "tamhn"
 enableGitInfo = true
 enableRobotsTXT = true
-canonifyURLs = true
-
-[taxonomies]
-  tag = "tags"
-
-[permalinks]
-  post = "/:filename/"
-
+googleAnalytics = "UA-139233829-1"
+languageCode = "en-us"
+theme = "cupper-hugo-theme"
+title = "Tam's Personal Blog"
 [imaging]
-  quality = 99
-
+quality = 99
+[[menu.nav]]
+name = "Subscribe via Email"
+url = "https://buttondown.email/tamhn"
+weight = 8
+[[menu.nav]]
+name = "Blog tiếng việt "
+url = "/vietnamese/"
+weight = 5
+[[menu.nav]]
+name = "Tags"
+url = "/tags/"
+weight = 4
+[[menu.nav]]
+name = "Blog"
+url = "/post/"
+weight = 3
+[[menu.nav]]
+name = "Projects"
+url = "/project/"
+weight = 2
+[[menu.nav]]
+name = "RSS"
+url = "/index.xml"
+weight = 7
+[[menu.nav]]
+name = "About"
+url = "/about/"
+weight = 6
+[[menu.nav]]
+name = "Home"
+url = "/"
+weight = 1
 [params]
-  description = "“You cannot do a kindness too soon, for you never know how soon it will be too late.” Ralph Waldo Emerson"
-  dateFormat = "Jan 2, 2006"
-  codePenUser = "tamhn"
-  katex = true
-
-[menu]
-  [[menu.nav]]
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.nav]]
-    name = "Blog"
-    url = "/post/"
-    weight = 2
-  [[menu.nav]]
-    name = "Projects"
-    url = "/project/"
-    weight = 2
-  [[menu.nav]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 3
-  [[menu.nav]]
-    name = "About"
-    url = "/about/"
-    weight = 4
-  [[menu.nav]]
-    name = "Bài tiếng việt"
-    url = "/vietnamese/"
-    weight = 4
-  [[menu.nav]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 5
-  [[menu.nav]]
-    name = "Subscribe via Email"
-    url = "https://buttondown.email/tamhn"
-    weight = 6
-  
+codePenUser = "tamhn"
+dateFormat = "Jan 2, 2006"
+description = "“You cannot do a kindness too soon, for you never know how soon it will be too late.” Ralph Waldo Emerson"
+katex = true
+[permalinks]
+post = "/:filename/"
+[taxonomies]
+tag = "tags"
