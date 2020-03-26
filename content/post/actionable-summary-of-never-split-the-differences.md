@@ -6,7 +6,7 @@ tags = []
 title = "Actionable summary of Never Split the Differences"
 
 +++
-#### General
+### General
 
 You should engage the process with a mindset of discovery. Your goal at the outset is to extract and observe as much information as possible.
 
@@ -16,7 +16,7 @@ Most people approach a negotiation so preoccupied by the arguments that support 
 
 Having the right mindset => As I’ve worked with executives and students to develop these skills, I always try to reinforce the message that being right isn’t the key to a successful negotiation—having the right mindset is.
 
-#### Actionable advice
+### Actionable advice
 
 **Try active listening** => instead of doing any thinking at all in the early goings about what you’re going to say—make your sole and all-encompassing focus the other person and what they have to say. In that mode of true active listening—aided by the tactics you’ll learn in the following chapters—you’ll disarm your counterpart. You’ll make them feel safe
 
@@ -43,3 +43,27 @@ Having the right mindset => As I’ve worked with executives and students to dev
 **Practices for tactical empathy** => If you want to increase your neural resonance skills, take a moment right now and practice. Turn your attention to someone who’s talking near you, or watch a person being interviewed on TV. As they talk, imagine that you are that person. Visualize yourself in the position they describe and put in as much detail as you can, as if you were actually there. But be warned, a lot of classic deal makers will think your approach is softheaded and weak.
 
 **Empathy is about understanding the position of the other person** => Politics aside, empathy is not about being nice or agreeing with the other side. It’s about understanding them. Empathy helps us learn the position the enemy is in, why their actions make sense (to them), and what might move them.
+
+**The power of labeling** => Labeling is a way of validating someone’s emotion by acknowledging it. Give someone’s emotion a name and you show you identify with how that person feels. It gets you close to someone without asking about external factors you know nothing about (“How’s your family?”). Think of labeling as a shortcut to intimacy, a time-saving emotional hack. Labeling has a special advantage when your counterpart is tense. Exposing negative thoughts to daylight—“It looks like you don’t want to go back to jail”—makes them seem less frightening.
+
+**Spot the emotion and say it aloud** => Once you’ve spotted an emotion you want to highlight, the next step is to label it aloud. Labels can be phrased as statements or questions. The only difference is whether you end the sentence with a downward or upward inflection. But no matter how they end, labels almost always begin with roughly the same words: It seems like . . . It sounds like . . . It looks like . . . Notice we said “It sounds like . . .” and not “I’m hearing that . . .” That’s because the word “I” gets people’s guard up. When you say “I,” it says you’re more interested in yourself than the other person, and it makes you take personal responsibility for the words that follow—and the offense they might cause.
+
+**Two levels of emotion** => people’s emotions have two levels: the “presenting” behavior is the part above the surface you can see and hear; beneath, the “underlying” feeling is what motivates the behavior. Imagine a grandfather who’s grumbly at a family holiday dinner: the presenting behavior is that he’s cranky, but the underlying emotion is a sad sense of loneliness from his family never seeing him. What good negotiators do when labeling is address those underlying emotions. Labeling negatives diffuses them (or defuses them, in extreme cases); labeling positives reinforces them.
+
+**How to deal with negativity =>** Research shows that the best way to deal with negativity is to observe it, without reaction and without judgment. Then consciously label each negative feeling and replace it with positive, compassionate, and solution-based thoughts.
+
+#### Accusation audit
+
+**"Taking the sting out" technique =>** All of us have intuitively done something close to this thousands of times. You’ll start a criticism of a friend by saying, “I don’t want this to sound harsh . . .” hoping that whatever comes next will be softened. Or you’ll say, “I don’t want to seem like an asshole . . .” hoping your counterpart will tell you a few sentences later that you’re not that bad. The small but critical mistake this commits is denying the negative. That actually gives it credence.
+
+What I want to do here is turn this into a process that, applied systematically, you can use to disarm your counterpart while negotiating everything from your son’s bedtime to large business contracts. The first step of doing so is listing every terrible thing your counterpart could say about you, in what I call an accusation audit.
+
+##### Example:
+
+It's easy to say “You are the typical prime contractor trying to force out the small guy.” “You promised us we would have all this work and you reneged on your promise.” “You could have told us about this issue weeks ago to help us prepare.” 
+
+Try to say: “You’re going to think we are a big, bad prime contractor when we are done,” “It seems you feel this work was promised to you from the beginning,” “We understand that we brought you on board with the shared goal of having you lead this work,” she said. “You may feel like we have treated you unfairly, and that we changed the deal significantly since then. We acknowledge that you believe you were promised this work.”
+
+##### Another example:
+
+“Well, it seems like you’ve been handling the rough day pretty well,” he says. “I was also affected by the weather delays and missed my connecting flight. It seems like this flight is likely booked solid, but with what you said, maybe someone affected by the weather might miss this connection. Is there any possibility a seat will be open?” Listen to that riff: Label, tactical empathy, label. And only then a request.
