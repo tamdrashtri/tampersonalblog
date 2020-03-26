@@ -1,6 +1,5 @@
 +++
 date = "2020-03-24"
-draft = true
 lastmod = ""
 tags = []
 title = "Vài tips để ghi nhớ những gì đã đọc"
