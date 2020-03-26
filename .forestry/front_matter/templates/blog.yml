@@ -17,6 +17,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/actionable-summary-of-never-split-the-differences.md
 - content/post/balancing-exploration-and-exploitation.md
 - content/post/being-a-hermit-trend-in-my-university.md
 - content/post/building-spiritual-muscles-in-difficult-times.md
