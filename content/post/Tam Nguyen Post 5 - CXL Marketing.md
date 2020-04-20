@@ -9,7 +9,7 @@ title = "Tam Nguyen Post 5 - User centric marketing "
 
 The course provides a variety of techniques and methods to better understand customers, and the benefits of doing so. The basic premise being we often forget about customers and just focus on building products. If so, companies are missing a lot of potentials and strengths of the digital age, which provides a large amount of data and advantages to better serve customers.
 
-I found this course fascinating. If the instructor could also provide an walkthrough of how they do these types of research, rather than just talking about it, it'll be much more helpful. Since I can have a basic grasp of the concept, but I don't know how it's actually run in practice.
+I found this course fascinating. If the instructor could also provide an walkthrough of how they do these types of research, rather than just talking about it, it'll be much more helpful. Since I can have a basic grasp of the concept, but I'm still confused on how it's actually run in practice.
 
 ### Notes
 
