@@ -1,6 +1,5 @@
 +++
 date = "2020-04-22"
-draft = true
 lastmod = ""
 tags = []
 title = "Tam Nguyen Post 5 - User centric marketing "
