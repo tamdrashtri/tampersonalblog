@@ -17,7 +17,6 @@ fields:
   name: tags
   label: tags
 pages:
-- content/post/Tam Nguyen Post 5 - CXL Marketing.md
 - content/post/actionable-summary-of-never-split-the-differences.md
 - content/post/balancing-exploration-and-exploitation.md
 - content/post/being-a-hermit-trend-in-my-university.md
@@ -26,6 +25,7 @@ pages:
 - content/post/choosing-thesis.md
 - content/post/comfortability-in-need-of-something-in-bed-to-boost-my-productivity.md
 - content/post/cxl-growth-marketing-week-1-reflections.md
+- content/post/cxl-marketing-user-centric-marketing.md
 - content/post/dating-as-a-skill.md
 - content/post/everyone-should-be-a-curator.md
 - content/post/first-week-of-work.md
