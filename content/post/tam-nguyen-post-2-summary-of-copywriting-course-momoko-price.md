@@ -1,7 +1,7 @@
 +++
 date = "2020-04-22"
 lastmod = ""
-tags = []
+tags = ["marketing"]
 title = "Tam Nguyen - Post 2 - Summary of Copywriting course - Momoko Price"
 
 +++
