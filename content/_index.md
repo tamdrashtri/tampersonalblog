@@ -13,6 +13,6 @@ Currently I'm seeking for a career path in growth marketing and website optimiza
 
 This personal website contains a collection of my personal blogs and [work projects](https://tamhn.me/project/).
 
-I'd love to chat with people and discuss about games, table tennis, writing, music, anime and books. Feel free to [email me](mailto:nghtam179@gmail.com) or connect with me via [LinkedIn](https://www.linkedin.com/in/tamhnguyen179/).
+I'd love to chat with people and discuss about games, table tennis, writing, music, anime and books. Feel free to [email me](contact@tamhn.me) or connect with me via [LinkedIn](https://www.linkedin.com/in/tamhnguyen179/).
 
 This blog is built using Hugo with the Cupper theme. The repository is available on my [Github](https://github.com/tamdrashtri/tampersonalblog).
