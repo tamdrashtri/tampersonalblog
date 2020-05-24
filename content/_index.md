@@ -9,7 +9,7 @@ Hi and welcome to my website!
 
 I'm Tam, and I'm currently living in Vancouver, British Columbia. I graduated from Quest University Canada in May 2019 with my focus in economics and predictive modeling. I wrote my bachelor [thesis](https://tamhn.me/project/) on maximizing business value with churn modeling.
 
-Currently I'm seeking for a career path in growth marketing and website optimization. I recently graduated as a growth marketing specialist from CXL Institute ([certificate](https://certificates.cxl.com/a42f5bd6-a306-42df-b380-10c36e0e3d7c)).
+Currently I'm seeking for a career path in growth marketing and website optimization. I recently graduated at CXL Institute as a growth marketing specialist ([certificate](https://certificates.cxl.com/a42f5bd6-a306-42df-b380-10c36e0e3d7c)).
 
 This personal website contains a collection of my personal blogs and [work projects](https://tamhn.me/project/).
 
